@@ -1,0 +1,41 @@
+name: "Daily check and update"
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  check_and_update:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          check-latest: true
+
+      - name: Install requirements
+        run: |
+          pip install git+https://github.com/thesadru/genshin.py
+          pip install -r requirements.txt
+      - name: Run main.py
+        env:
+          COOKIES: ${{ secrets.COOKIES }}
+        run: |
+          python main.py -o README.md
+      - name: Format with prettier
+        run: |
+          npx prettier README.md --write --parser html
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.name "Ahmad Thoriq Najahi"
+          git config --global user.email "najahi@zephyrus.id"
+          git add README.md
+          git commit --allow-empty-message -m '' || exit 0
+          git push
