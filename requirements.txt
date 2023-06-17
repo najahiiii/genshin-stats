@@ -1,2 +1,2 @@
-genshin
+genshin==1.5.2
 Jinja2
