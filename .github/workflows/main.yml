@@ -1,6 +1,7 @@
 name: "Daily check and update"
 
 on:
+  push:
   schedule:
     - cron: "0 7 * * *"
   workflow_dispatch:
@@ -28,6 +29,12 @@ jobs:
           COOKIES: ${{ secrets.COOKIES }}
         run: |
           python main.py -o README.md
+      - name: Run main.py - verbose
+        env:
+          COOKIES: ${{ secrets.COOKIES }}
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          python main.py -c -V -o README.md
       - name: Format with prettier
         run: |
           npx prettier README.md --write --parser html
