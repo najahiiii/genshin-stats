@@ -44,5 +44,5 @@ jobs:
           git config --global user.name "Ahmad Thoriq Najahi"
           git config --global user.email "najahi@zephyrus.id"
           git add README.md
-          git commit --allow-empty-message -m '' || exit 0
+          git commit -m "Daily update: `date +"%D %T"`" || exit 0
           git push
