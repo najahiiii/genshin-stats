@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>840</td>
+    <td>842</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -304,16 +304,16 @@
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3760 (rate -47)</td>
+    <td>3820 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3783231 (rate -50)</td>
+    <td>3901498 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (32%)<br />Daily Activity: 1080 (29%)<br />Adventure:
-      698 (19%)<br />Events: 670 (18%)<br />Mail: 70 (1%)<br />Quests: 40
+      Spiral Abyss: 1200 (32%)<br />Daily Activity: 1140 (30%)<br />Adventure:
+      698 (19%)<br />Events: 670 (17%)<br />Mail: 70 (1%)<br />Quests: 40
       (1%)<br />Other: 2 (0%)<br />
     </td>
   </tr>
