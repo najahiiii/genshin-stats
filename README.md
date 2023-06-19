@@ -376,16 +376,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3700 (rate -48)</td>
+    <td>3760 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3728635 (rate -51)</td>
+    <td>3783231 (rate -50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (33%)<br />Daily Activity: 1020 (28%)<br />Adventure:
+      Spiral Abyss: 1200 (32%)<br />Daily Activity: 1080 (29%)<br />Adventure:
       698 (19%)<br />Events: 670 (18%)<br />Mail: 70 (1%)<br />Quests: 40
       (1%)<br />Other: 2 (0%)<br />
     </td>
@@ -3301,7 +3301,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3597,7 +3597,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
