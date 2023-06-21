@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>842</td>
+    <td>843</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -304,16 +304,16 @@
         height="18"
       />
       Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3820 (rate -47)</td>
+    <td>3900 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3901498 (rate -49)</td>
+    <td>3961973 (rate -48)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (32%)<br />Daily Activity: 1140 (30%)<br />Adventure:
-      698 (19%)<br />Events: 670 (17%)<br />Mail: 70 (1%)<br />Quests: 40
+      Daily Activity: 1200 (31%)<br />Spiral Abyss: 1200 (31%)<br />Adventure:
+      698 (18%)<br />Events: 670 (17%)<br />Mail: 90 (2%)<br />Quests: 40
       (1%)<br />Other: 2 (0%)<br />
     </td>
   </tr>
