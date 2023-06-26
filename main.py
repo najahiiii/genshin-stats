@@ -51,6 +51,8 @@ async def main():
             await client.claim_daily_reward(lang=args.lang, reward=False)
         except genshin.AlreadyClaimed:
             pass
+        except Exception as e:
+            print(f"Could not claim daily rewards: \"{e}\"")
         finally:
             reward = await client.claimed_rewards(lang=args.lang).next()
             reward_info = await client.get_reward_info()
