@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>898</td>
+    <td>903</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>848</td>
+    <td>849</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br /><img
+      Kaedehara Kazuha (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -376,37 +376,110 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5130 (rate -28)</td>
+    <td>5260 (rate -27)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5050042 (rate -34)</td>
+    <td>5176895 (rate -32)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1560 (31%)<br />Spiral Abyss: 1200 (24%)<br />Events: 1180
-      (24%)<br />Adventure: 698 (13%)<br />Mail: 450 (8%)<br />Quests: 40
+      Daily Activity: 1560 (30%)<br />Events: 1240 (24%)<br />Spiral Abyss: 1200
+      (23%)<br />Adventure: 768 (15%)<br />Mail: 450 (8%)<br />Quests: 40
       (0%)<br />Other: 2 (0%)<br />
     </td>
   </tr>
 </table>
 
 <h2>Characters</h2>
-<h3>Qiqi</h3>
+<h3>Zhongli</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/60b9acefb578eeef2a85520cd974fcf8.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/3fe373c907988c5a743d3c9ceba5a81c.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Geo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Tenacity of the Millelith<br />1 x Noblesse Oblige<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Primordial Jade Winged-Spear</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Eula</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c7c4601c510cb331932ed773c9e7e723.png"
         />
       </p>
     </td>
@@ -432,11 +505,11 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Ocean-Hued Clam<br /></td>
+          <td>4 x Pale Flame<br />1 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -448,7 +521,83 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Skyward Blade</td>
+          <td>Song of Broken Pines</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Yelan</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/945a0efd00708811abe540f9a8154fab.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Tenacity of the Millelith<br />2 x Heart of Depth<br />1 x
+            Emblem of Severed Fate<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Aqua Simulacra</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -466,13 +615,161 @@
     </td>
   </tr>
 </table>
-<h3>Sayu</h3>
+<h3>Raiden Shogun</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/267a36385f39386691085e574d3d30e0.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Emblem of Severed Fate<br />1 x Wanderer's Troupe<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Engulfing Lightning</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Kirara</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/496e9d53e10e8313a6296ce1227ad12e.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            3 x Tenacity of the Millelith<br />2 x Deepwood Memories<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Primordial Jade Cutter</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Diluc</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         />
       </p>
     </td>
@@ -489,11 +786,11 @@
       <table>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Element</td>
-          <td>Anemo</td>
+          <td>Pyro</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -505,15 +802,15 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>4 x Gladiator's Finale<br />1 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>Red Dead of Night</td>
         </tr>
       </table>
     </td>
@@ -522,526 +819,6 @@
         <tr>
           <td>Name</td>
           <td>Wolf's Gravestone</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Klee</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1e95da3796ff6569f2f8a3969a185def.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Dodoco Tales</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Diona</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ca45b6728f68eae6577ff2faddb7e34c.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sacrificial Bow</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Xingqiu</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/538c0089ae594f98273db22ef5d303cd.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Heart of Depth<br />2 x Emblem of Severed Fate<br />1 x Tenacity
-            of the Millelith<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sacrificial Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Lisa</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ee6ad2aee3aa4a9536a472207d6f1207.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Gladiator's Finale<br />2 x Shimenawa's Reminiscence<br />1 x
-            Thundering Fury<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>A Sobriquet Under Shade</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Skyward Atlas</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Kaeya</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/71ab25bd93f436705d6ae7a1af2ce030.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Fillet Blade</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Amber</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/cf937c3b55232f7485974c9ee7965336.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Pyro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            3 x Wanderer's Troupe<br />1 x Deepwood Memories<br />1 x Thundering
-            Fury<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>100% Outrider</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Rust</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Kamisato Ayaka</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/fec2aa579388b921b6a72f297c861ad3.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Blizzard Strayer<br />1 x Viridescent Venerer<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Mistsplitter Reforged</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1135,20 +912,20 @@
     </td>
   </tr>
 </table>
-<h3>Diluc</h3>
+<h3>Kaedehara Kazuha</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/024241dc15a777126633822edf7339c7.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1f24551a8e7382878aec73855c89dae8.png"
         />
       </p>
     </td>
@@ -1162,7 +939,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Pyro</td>
+          <td>Anemo</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1174,15 +951,15 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>6</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Gladiator's Finale<br />1 x Emblem of Severed Fate<br /></td>
+          <td>4 x Viridescent Venerer<br />1 x Deepwood Memories<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
-          <td>Red Dead of Night</td>
+          <td></td>
         </tr>
       </table>
     </td>
@@ -1190,7 +967,80 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Wolf's Gravestone</td>
+          <td>Iron Sting</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Kamisato Ayaka</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/fec2aa579388b921b6a72f297c861ad3.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Blizzard Strayer<br />1 x Viridescent Venerer<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Mistsplitter Reforged</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1281,20 +1131,20 @@
     </td>
   </tr>
 </table>
-<h3>Zhongli</h3>
+<h3>Qiqi</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/3fe373c907988c5a743d3c9ceba5a81c.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/60b9acefb578eeef2a85520cd974fcf8.png"
         />
       </p>
     </td>
@@ -1308,7 +1158,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Geo</td>
+          <td>Cryo</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1320,11 +1170,11 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>6</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Tenacity of the Millelith<br />1 x Noblesse Oblige<br /></td>
+          <td>5 x Ocean-Hued Clam<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1336,7 +1186,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Primordial Jade Winged-Spear</td>
+          <td>Skyward Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1348,7 +1198,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -1646,79 +1496,6 @@
     </td>
   </tr>
 </table>
-<h3>Kaedehara Kazuha</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1f24551a8e7382878aec73855c89dae8.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Deepwood Memories<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Iron Sting</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Yoimiya</h3>
 <table>
   <tr>
@@ -1775,152 +1552,6 @@
         <tr>
           <td>Name</td>
           <td>Thundering Pulse</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Eula</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/c7c4601c510cb331932ed773c9e7e723.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Pale Flame<br />1 x Emblem of Severed Fate<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Song of Broken Pines</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Raiden Shogun</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/267a36385f39386691085e574d3d30e0.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Emblem of Severed Fate<br />1 x Wanderer's Troupe<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Engulfing Lightning</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2079,82 +1710,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Yelan</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/945a0efd00708811abe540f9a8154fab.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Tenacity of the Millelith<br />2 x Heart of Depth<br />1 x
-            Emblem of Severed Fate<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Aqua Simulacra</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2604,6 +2159,82 @@
     </td>
   </tr>
 </table>
+<h3>Lisa</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ee6ad2aee3aa4a9536a472207d6f1207.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Gladiator's Finale<br />2 x Shimenawa's Reminiscence<br />1 x
+            Thundering Fury<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>A Sobriquet Under Shade</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Skyward Atlas</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Bennett</h3>
 <table>
   <tr>
@@ -2817,6 +2448,79 @@
         <tr>
           <td>Level</td>
           <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Sayu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/024241dc15a777126633822edf7339c7.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Wolf's Gravestone</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -3301,7 +3005,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3309,7 +3013,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Flower of Paradise Lost<br />1 x Pale Flame<br /></td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3414,81 +3118,6 @@
     </td>
   </tr>
 </table>
-<h3>Kirara</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/496e9d53e10e8313a6296ce1227ad12e.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            3 x Tenacity of the Millelith<br />2 x Deepwood Memories<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Primordial Jade Cutter</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Traveler</h3>
 <table>
   <tr>
@@ -3545,6 +3174,152 @@
         <tr>
           <td>Name</td>
           <td>Harbinger of Dawn</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Klee</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/1e95da3796ff6569f2f8a3969a185def.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dodoco Tales</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Kaeya</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/71ab25bd93f436705d6ae7a1af2ce030.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Fillet Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -3630,6 +3405,158 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Amber</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/cf937c3b55232f7485974c9ee7965336.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            3 x Wanderer's Troupe<br />1 x Deepwood Memories<br />1 x Thundering
+            Fury<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>100% Outrider</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Rust</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Xingqiu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/538c0089ae594f98273db22ef5d303cd.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Heart of Depth<br />2 x Emblem of Severed Fate<br />1 x Tenacity
+            of the Millelith<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -4794,6 +4721,79 @@
         <tr>
           <td>Level</td>
           <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Diona</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u82ase/ca45b6728f68eae6577ff2faddb7e34c.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Bow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
