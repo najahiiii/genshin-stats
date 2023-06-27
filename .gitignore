@@ -1,5 +1,3 @@
-stats.html
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -25,3 +23,6 @@ venv/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# dependencies
+/node_modules
