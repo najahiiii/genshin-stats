@@ -44,7 +44,7 @@ async def main():
 
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
 
-    diary = await client.get_diary()
+    diary = await client.get_genshin_diary()
 
     if args.claim:
         try:
