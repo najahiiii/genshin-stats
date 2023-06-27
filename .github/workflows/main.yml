@@ -20,9 +20,10 @@ jobs:
           python-version: '3.10'
           check-latest: true
 
-      - name: Install requirements
+      - name: Install dependencies
         run: |
           pip install -r requirements.txt
+          npm install
       - name: Run main.py
         env:
           COOKIES: ${{ secrets.COOKIES }}
