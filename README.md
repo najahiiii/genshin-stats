@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>849</td>
+    <td>852</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Yelan (12)<br /><img
+      Zhongli (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5440 (rate -24)</td>
+    <td>5500 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5383281 (rate -29)</td>
+    <td>5474503 (rate -28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1680 (31%)<br />Events: 1300 (24%)<br />Spiral Abyss: 1200
-      (23%)<br />Adventure: 768 (14%)<br />Mail: 450 (8%)<br />Quests: 40
+      Daily Activity: 1740 (32%)<br />Events: 1300 (24%)<br />Spiral Abyss: 1200
+      (22%)<br />Adventure: 768 (14%)<br />Mail: 450 (8%)<br />Quests: 40
       (0%)<br />Other: 2 (0%)<br />
     </td>
   </tr>
