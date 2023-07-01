@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>852</td>
+    <td>854</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,15 +272,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>72</td>
+    <td>73</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>15</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -298,33 +298,33 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
+      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+      Eula (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Rosaria (9)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (35)<br />
+      Eula (32)<br />
     </td>
   </tr>
   <tr>
@@ -335,40 +335,40 @@
         ,
         height="18"
       />
-      Eula (1087308)<br />
+      Eula (760772)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      Yoimiya (104717)<br />
+      Baizhu (84771)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
       />
-      Zhongli (20)<br />
+      Rosaria (18)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Yelan (59)<br />
+      Eula (55)<br />
     </td>
   </tr>
 </table>
@@ -376,18 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5500 (rate -23)</td>
+    <td>60 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5479541 (rate -28)</td>
+    <td>366774 (rate -93)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1740 (32%)<br />Events: 1300 (24%)<br />Spiral Abyss: 1200
-      (22%)<br />Adventure: 768 (14%)<br />Mail: 450 (8%)<br />Quests: 40
-      (0%)<br />Other: 2 (0%)<br />
+      Daily Activity: 60 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
