@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>903</td>
+    <td>904</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>858</td>
+    <td>859</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2046</td>
+    <td>2058</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -304,16 +304,16 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Eula (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
-        ,
-        height="18"
-      />
-      Rosaria (9)<br />
+      Eula (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1560 (rate -71)</td>
+    <td>1740 (rate -68)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1076642 (rate -80)</td>
+    <td>1260234 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 620 (40%)<br />Spiral Abyss: 600 (39%)<br />Daily Activity: 300
-      (19%)<br />Events: 40 (2%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Mail: 680 (40%)<br />Spiral Abyss: 600 (35%)<br />Daily Activity: 360
+      (20%)<br />Quests: 60 (3%)<br />Events: 40 (2%)<br />Adventure: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3078,7 +3078,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3230,7 +3230,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
