@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>859</td>
+    <td>861</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
       />
-      Rosaria (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br />
+      Rosaria (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1740 (rate -68)</td>
+    <td>1860 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1281984 (rate -77)</td>
+    <td>1391094 (rate -75)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (40%)<br />Spiral Abyss: 600 (35%)<br />Daily Activity: 360
-      (20%)<br />Quests: 60 (3%)<br />Events: 40 (2%)<br />Adventure: 0 (0%)<br />Other:
+      Mail: 680 (37%)<br />Spiral Abyss: 600 (33%)<br />Daily Activity: 480
+      (25%)<br />Quests: 60 (3%)<br />Events: 40 (2%)<br />Adventure: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
