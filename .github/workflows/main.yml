@@ -41,6 +41,7 @@ jobs:
         run: |
           npx prettier README.md --write --parser html
       - name: Commit and push if changed
+        if: ${{ github.event_name != 'push' }}
         run: |
           git diff
           git config --global user.name "Ahmad Thoriq Najahi"
