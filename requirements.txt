@@ -1,3 +1,1 @@
-pydantic==1.10.9
-genshin==1.6.0
 Jinja2==3.1.2
