@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Ball</td>
   </tr>
 </table>
 
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Eula (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (9)<br />
     </td>
   </tr>
   <tr>
@@ -380,7 +380,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2368494 (rate -57)</td>
+    <td>2380276 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -509,7 +509,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Pale Flame<br />1 x Emblem of Severed Fate<br /></td>
+          <td>4 x Pale Flame<br />1 x Tenacity of the Millelith<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1854,7 +1854,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -3816,7 +3816,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
