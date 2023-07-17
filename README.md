@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Ball</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>868</td>
+    <td>870</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2072</td>
+    <td>2082</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -272,15 +272,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>73</td>
+    <td>74</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>13</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -288,7 +288,7 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -298,22 +298,22 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
+      Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (9)<br /><img
+      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
       />
-      Rosaria (9)<br />
+      Rosaria (15)<br />
     </td>
   </tr>
   <tr>
@@ -324,7 +324,7 @@
         ,
         height="18"
       />
-      Eula (32)<br />
+      Eula (77)<br />
     </td>
   </tr>
   <tr>
@@ -335,18 +335,18 @@
         ,
         height="18"
       />
-      Eula (760772)<br />
+      Eula (1477812)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Baizhuer.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Baizhu (84771)<br />
+      Kamisato Ayaka (95720)<br />
     </td>
   </tr>
   <tr>
@@ -357,7 +357,7 @@
         ,
         height="18"
       />
-      Rosaria (18)<br />
+      Rosaria (26)<br />
     </td>
   </tr>
   <tr>
@@ -368,7 +368,7 @@
         ,
         height="18"
       />
-      Eula (55)<br />
+      Eula (95)<br />
     </td>
   </tr>
 </table>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2300 (rate -58)</td>
+    <td>2420 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2434951 (rate -56)</td>
+    <td>2982473 (rate -46)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 900 (40%)<br />Mail: 700 (31%)<br />Spiral Abyss: 600
-      (26%)<br />Quests: 60 (2%)<br />Events: 40 (1%)<br />Adventure: 0 (0%)<br />Other:
+      Daily Activity: 1020 (43%)<br />Mail: 700 (29%)<br />Spiral Abyss: 600
+      (25%)<br />Quests: 60 (2%)<br />Events: 40 (1%)<br />Adventure: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3816,7 +3816,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
