@@ -276,11 +276,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>19</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -288,12 +288,17 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>35</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -304,11 +309,6 @@
         height="18"
       />
       Raiden Shogun (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2420 (rate -56)</td>
+    <td>3020 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2982473 (rate -46)</td>
+    <td>3384313 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1020 (43%)<br />Mail: 700 (29%)<br />Spiral Abyss: 600
-      (25%)<br />Quests: 60 (2%)<br />Events: 40 (1%)<br />Adventure: 0 (0%)<br />Other:
+      Spiral Abyss: 1200 (40%)<br />Daily Activity: 1020 (34%)<br />Mail: 700
+      (24%)<br />Quests: 60 (1%)<br />Events: 40 (1%)<br />Adventure: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
