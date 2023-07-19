@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>870</td>
+    <td>871</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,21 +294,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3020 (rate -45)</td>
+    <td>3080 (rate -44)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3384313 (rate -39)</td>
+    <td>3447113 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (40%)<br />Daily Activity: 1020 (34%)<br />Mail: 700
-      (24%)<br />Quests: 60 (1%)<br />Events: 40 (1%)<br />Adventure: 0 (0%)<br />Other:
+      Spiral Abyss: 1200 (39%)<br />Daily Activity: 1080 (36%)<br />Mail: 700
+      (23%)<br />Quests: 60 (1%)<br />Events: 40 (1%)<br />Adventure: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
