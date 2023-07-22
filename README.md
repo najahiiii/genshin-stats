@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>873</td>
+    <td>874</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,11 +309,11 @@
         height="18"
       />
       Kaedehara Kazuha (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
       />
-      Eula (15)<br />
+      Rosaria (15)<br />
     </td>
   </tr>
   <tr>
@@ -376,16 +376,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3210 (rate -42)</td>
+    <td>3290 (rate -40)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3645400 (rate -34)</td>
+    <td>3729860 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1200 (38%)<br />Spiral Abyss: 1200 (38%)<br />Mail: 700
+      Daily Activity: 1260 (39%)<br />Spiral Abyss: 1200 (37%)<br />Mail: 720
       (22%)<br />Quests: 60 (1%)<br />Events: 40 (1%)<br />Adventure: 10 (0%)<br />Other:
       0 (0%)<br />
     </td>
@@ -732,8 +732,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            3 x Tenacity of the Millelith<br />1 x Crimson Witch of Flames<br />1
-            x Deepwood Memories<br />
+            3 x Tenacity of the Millelith<br />2 x Deepwood Memories<br />
           </td>
         </tr>
         <tr>
@@ -1467,7 +1466,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Crimson Witch of Flames<br />1 x Deepwood Memories<br /></td>
+          <td>5 x Crimson Witch of Flames<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
