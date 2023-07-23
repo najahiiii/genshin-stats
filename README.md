@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>874</td>
+    <td>876</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2082</td>
+    <td>2084</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -294,21 +294,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3290 (rate -40)</td>
+    <td>3410 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3729860 (rate -33)</td>
+    <td>3889185 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1260 (39%)<br />Spiral Abyss: 1200 (37%)<br />Mail: 720
-      (22%)<br />Quests: 60 (1%)<br />Events: 40 (1%)<br />Adventure: 10 (0%)<br />Other:
+      Daily Activity: 1380 (41%)<br />Spiral Abyss: 1200 (36%)<br />Mail: 720
+      (21%)<br />Quests: 60 (1%)<br />Events: 40 (1%)<br />Adventure: 10 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3153,7 +3153,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
