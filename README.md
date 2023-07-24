@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -294,11 +294,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -309,11 +304,16 @@
         height="18"
       />
       Raiden Shogun (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Rosaria (15)<br />
+      Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (15)<br />
     </td>
   </tr>
   <tr>
@@ -3773,7 +3773,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -4357,7 +4357,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
