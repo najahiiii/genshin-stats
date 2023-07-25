@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>876</td>
+    <td>877</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2084</td>
+    <td>2094</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -294,21 +294,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
         ,
         height="18"
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3410 (rate -38)</td>
+    <td>3890 (rate -30)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3889185 (rate -30)</td>
+    <td>4488007 (rate -19)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (41%)<br />Spiral Abyss: 1200 (36%)<br />Mail: 720
-      (21%)<br />Quests: 60 (1%)<br />Events: 40 (1%)<br />Adventure: 10 (0%)<br />Other:
-      0 (0%)<br />
+      Daily Activity: 1440 (38%)<br />Spiral Abyss: 1200 (31%)<br />Mail: 720
+      (19%)<br />Events: 460 (11%)<br />Quests: 60 (1%)<br />Adventure: 10
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
