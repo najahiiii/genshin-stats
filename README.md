@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>878</td>
+    <td>879</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Eula (15)<br />
+      Raiden Shogun (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (15)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3950 (rate -28)</td>
+    <td>4050 (rate -27)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4592071 (rate -17)</td>
+    <td>4676352 (rate -16)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1500 (38%)<br />Spiral Abyss: 1200 (31%)<br />Mail: 720
-      (19%)<br />Events: 460 (11%)<br />Quests: 60 (1%)<br />Adventure: 10
+      Daily Activity: 1560 (39%)<br />Spiral Abyss: 1200 (30%)<br />Mail: 720
+      (18%)<br />Events: 500 (12%)<br />Quests: 60 (1%)<br />Adventure: 10
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
