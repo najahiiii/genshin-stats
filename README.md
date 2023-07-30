@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2094</td>
+    <td>2096</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -294,6 +294,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -304,11 +309,6 @@
         height="18"
       />
       Kaedehara Kazuha (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
@@ -376,16 +376,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4390 (rate -21)</td>
+    <td>4450 (rate -19)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4848734 (rate -13)</td>
+    <td>4926361 (rate -11)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1680 (39%)<br />Spiral Abyss: 1200 (28%)<br />Mail: 760
+      Daily Activity: 1740 (40%)<br />Spiral Abyss: 1200 (27%)<br />Mail: 760
       (17%)<br />Events: 680 (15%)<br />Quests: 60 (1%)<br />Adventure: 10
       (0%)<br />Other: 0 (0%)<br />
     </td>
