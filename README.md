@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>887</td>
+    <td>888</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -299,6 +299,11 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
@@ -308,12 +313,7 @@
         ,
         height="18"
       />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (9)<br />
+      Zhongli (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>780 (rate -83)</td>
+    <td>1160 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>839954 (rate -83)</td>
+    <td>1016765 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (77%)<br />Daily Activity: 180 (23%)<br />Events: 0
-      (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (52%)<br />Mail: 320 (28%)<br />Daily Activity: 240
+      (20%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -849,7 +849,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c2c841c9b5d3ccb4c7c7447c77ea5179.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7f199cbbb1d2f2437732dbe92168b75d.png"
         />
       </p>
     </td>
@@ -881,7 +881,7 @@
           <td>Artifacts</td>
           <td>
             2 x Desert Pavilion Chronicle<br />2 x Viridescent Venerer<br />1 x
-            Noblesse Oblige<br />
+            Pale Flame<br />
           </td>
         </tr>
         <tr>
@@ -894,11 +894,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Amenoma Kageuchi</td>
+          <td>Aquila Favonia</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2323,7 +2323,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7f199cbbb1d2f2437732dbe92168b75d.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c2c841c9b5d3ccb4c7c7447c77ea5179.png"
         />
       </p>
     </td>
@@ -2365,11 +2365,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Aquila Favonia</td>
+          <td>Amenoma Kageuchi</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
