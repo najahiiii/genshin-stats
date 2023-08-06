@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>888</td>
+    <td>889</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -304,16 +304,16 @@
         height="18"
       />
       Sangonomiya Kokomi (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Shenhe (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br />
+      Shenhe (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1160 (rate -75)</td>
+    <td>1220 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1016765 (rate -80)</td>
+    <td>1096983 (rate -79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (52%)<br />Mail: 320 (28%)<br />Daily Activity: 240
-      (20%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (50%)<br />Mail: 320 (26%)<br />Daily Activity: 300
+      (24%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
