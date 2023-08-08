@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>889</td>
+    <td>890</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -299,21 +299,21 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
+      Sangonomiya Kokomi (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Shenhe (9)<br />
+      Shenhe (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1220 (rate -74)</td>
+    <td>1280 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1096983 (rate -79)</td>
+    <td>1181960 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (50%)<br />Mail: 320 (26%)<br />Daily Activity: 300
-      (24%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (47%)<br />Daily Activity: 360 (28%)<br />Mail: 320
+      (25%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
