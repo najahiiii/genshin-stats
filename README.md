@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>890</td>
+    <td>891</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -299,21 +299,21 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (9)<br /><img
+      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1280 (rate -73)</td>
+    <td>1340 (rate -72)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1181960 (rate -77)</td>
+    <td>1322165 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (47%)<br />Daily Activity: 360 (28%)<br />Mail: 320
-      (25%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (45%)<br />Daily Activity: 420 (32%)<br />Mail: 320
+      (23%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -4357,7 +4357,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
