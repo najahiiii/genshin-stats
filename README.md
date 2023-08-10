@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -304,16 +304,16 @@
         height="18"
       />
       Kamisato Ayaka (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (9)<br />
+      Sangonomiya Kokomi (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br />
     </td>
   </tr>
   <tr>
@@ -849,7 +849,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7f199cbbb1d2f2437732dbe92168b75d.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1e4e4bada3635bff17706431be135b1a.png"
         />
       </p>
     </td>
@@ -894,7 +894,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Aquila Favonia</td>
+          <td>Mistsplitter Reforged</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -906,7 +906,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -998,7 +998,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1e4e4bada3635bff17706431be135b1a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c2c841c9b5d3ccb4c7c7447c77ea5179.png"
         />
       </p>
     </td>
@@ -1040,11 +1040,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Mistsplitter Reforged</td>
+          <td>Amenoma Kageuchi</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1052,7 +1052,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -2396,7 +2396,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/c2c841c9b5d3ccb4c7c7447c77ea5179.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/7f199cbbb1d2f2437732dbe92168b75d.png"
         />
       </p>
     </td>
@@ -2438,11 +2438,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Amenoma Kageuchi</td>
+          <td>Aquila Favonia</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -3226,7 +3226,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
