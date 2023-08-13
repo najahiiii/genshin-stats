@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -299,21 +299,21 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Shenhe (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
+      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (9)<br />
+      Sangonomiya Kokomi (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1400 (rate -70)</td>
+    <td>1975 (rate -58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1384986 (rate -73)</td>
+    <td>1766861 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (43%)<br />Daily Activity: 480 (35%)<br />Mail: 320
-      (22%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (31%)<br />Daily Activity: 540 (28%)<br />Events: 440
+      (22%)<br />Mail: 390 (19%)<br />Adventure: 5 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
