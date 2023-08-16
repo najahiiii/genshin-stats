@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>893</td>
+    <td>895</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,19 +48,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2341</td>
+    <td>2342</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1502</td>
+    <td>1508</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>458</td>
+    <td>459</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>174</td>
+    <td>176</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2107</td>
+    <td>2110</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -299,11 +299,11 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Shenhe (9)<br /><img
+      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1975 (rate -58)</td>
+    <td>3886 (rate -19)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1766861 (rate -66)</td>
+    <td>3706999 (rate -29)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (31%)<br />Daily Activity: 540 (28%)<br />Events: 440
-      (22%)<br />Mail: 390 (19%)<br />Adventure: 5 (0%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Events: 1426 (37%)<br />Adventure: 870 (23%)<br />Daily Activity: 600
+      (15%)<br />Spiral Abyss: 600 (15%)<br />Mail: 390 (10%)<br />Quests: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
