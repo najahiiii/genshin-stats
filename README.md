@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>916</td>
+    <td>920</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>896</td>
+    <td>898</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -286,7 +286,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2127</td>
+    <td>2128</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -297,7 +297,7 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>75</td>
+    <td>76</td>
   </tr>
   <tr>
     <td>Total Battles</td>
@@ -319,37 +319,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (9)<br />
+      Shenhe (9)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (33)<br />
+      Raiden Shogun (47)<br />
     </td>
   </tr>
   <tr>
@@ -360,7 +360,7 @@
         ,
         height="18"
       />
-      Eula (1183537)<br />
+      Eula (1360275)<br />
     </td>
   </tr>
   <tr>
@@ -371,18 +371,18 @@
         ,
         height="18"
       />
-      Kamisato Ayaka (44066)<br />
+      Kamisato Ayaka (66687)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Zhongli (12)<br />
+      Bennett (18)<br />
     </td>
   </tr>
   <tr>
@@ -393,7 +393,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (37)<br />
+      Kaedehara Kazuha (46)<br />
     </td>
   </tr>
 </table>
@@ -401,18 +401,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5440 (rate 13)</td>
+    <td>6321 (rate 31)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4163939 (rate -20)</td>
+    <td>5126559 (rate -2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1846 (34%)<br />Adventure: 1192 (22%)<br />Mail: 1040 (20%)<br />Daily
-      Activity: 720 (13%)<br />Spiral Abyss: 600 (11%)<br />Other: 42 (0%)<br />Quests:
-      0 (0%)<br />
+      Events: 1846 (30%)<br />Spiral Abyss: 1200 (19%)<br />Adventure: 1192
+      (19%)<br />Mail: 1140 (19%)<br />Daily Activity: 840 (13%)<br />Quests: 60
+      (0%)<br />Other: 43 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1023,7 +1023,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a1abc5bba1d8ac3e51c993890c153c87.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/01736a25a5af4ef284d8bcca062ec94c.png"
         />
       </p>
     </td>
@@ -1065,11 +1065,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Kagotsurube Isshin</td>
+          <td>Mistsplitter Reforged</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1461,7 +1461,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/01736a25a5af4ef284d8bcca062ec94c.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/a1abc5bba1d8ac3e51c993890c153c87.png"
         />
       </p>
     </td>
@@ -1503,11 +1503,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Mistsplitter Reforged</td>
+          <td>Kagotsurube Isshin</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -3954,6 +3954,79 @@
     </td>
   </tr>
 </table>
+<h3>Lynette</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Linette.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/067d5f24988443ca2b44baca00e9f4d4.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Skyward Blade</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Yaoyao</h3>
 <table>
   <tr>
@@ -4752,79 +4825,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Lynette</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Linette.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/067d5f24988443ca2b44baca00e9f4d4.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Skyward Blade</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
