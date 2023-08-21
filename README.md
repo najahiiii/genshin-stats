@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>10000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>898</td>
+    <td>899</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -286,7 +286,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2128</td>
+    <td>2143</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -334,11 +334,11 @@
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Rosaria (9)<br />
+      Shenhe (9)<br />
     </td>
   </tr>
   <tr>
@@ -378,11 +378,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Bennett (18)<br />
+      Raiden Shogun (18)<br />
     </td>
   </tr>
   <tr>
@@ -401,17 +401,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6321 (rate 31)</td>
+    <td>6401 (rate 33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5126559 (rate -2)</td>
+    <td>5283474 (rate 0)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1846 (30%)<br />Spiral Abyss: 1200 (19%)<br />Adventure: 1192
-      (19%)<br />Mail: 1140 (19%)<br />Daily Activity: 840 (13%)<br />Quests: 60
+      Events: 1846 (29%)<br />Spiral Abyss: 1200 (19%)<br />Adventure: 1192
+      (19%)<br />Mail: 1160 (19%)<br />Daily Activity: 900 (14%)<br />Quests: 60
       (0%)<br />Other: 43 (0%)<br />
     </td>
   </tr>
