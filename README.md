@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>920</td>
+    <td>932</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>899</td>
+    <td>900</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>344</td>
+    <td>348</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,27 +48,27 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>1</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2343</td>
+    <td>2347</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1509</td>
+    <td>1525</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>459</td>
+    <td>463</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>176</td>
+    <td>180</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>147</td>
+    <td>148</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -168,7 +168,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>5.0%</td>
+          <td>8.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -286,7 +286,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2143</td>
+    <td>2156</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -324,21 +324,21 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Shenhe (9)<br />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (9)<br />
     </td>
   </tr>
   <tr>
@@ -378,11 +378,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Raiden Shogun (18)<br />
+      Bennett (18)<br />
     </td>
   </tr>
   <tr>
@@ -401,18 +401,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6401 (rate 33)</td>
+    <td>7250 (rate 50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5283474 (rate 0)</td>
+    <td>6336227 (rate 20)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1846 (29%)<br />Spiral Abyss: 1200 (19%)<br />Adventure: 1192
-      (19%)<br />Mail: 1160 (19%)<br />Daily Activity: 900 (14%)<br />Quests: 60
-      (0%)<br />Other: 43 (0%)<br />
+      Events: 1886 (27%)<br />Adventure: 1385 (20%)<br />Spiral Abyss: 1200
+      (16%)<br />Mail: 1160 (16%)<br />Daily Activity: 960 (13%)<br />Quests:
+      610 (8%)<br />Other: 49 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3143,6 +3143,79 @@
     </td>
   </tr>
 </table>
+<h3>Mika</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mika.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/35cf94ca471e5ff85b8c061c1e630594.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Missive Windspear</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Kaveh</h3>
 <table>
   <tr>
@@ -3207,81 +3280,6 @@
         <tr>
           <td>Level</td>
           <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Mika</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mika.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/35cf94ca471e5ff85b8c061c1e630594.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>9</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            4 x Emblem of Severed Fate<br />1 x Bloodstained Chivalry<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Missive Windspear</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -3545,7 +3543,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
