@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>932</td>
+    <td>936</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>900</td>
+    <td>901</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>5</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -56,19 +56,19 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1525</td>
+    <td>1526</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>463</td>
+    <td>466</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>180</td>
+    <td>182</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>148</td>
+    <td>149</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -168,7 +168,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>8.0%</td>
+          <td>13.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -324,21 +324,21 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Rosaria (9)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (9)<br />
     </td>
   </tr>
   <tr>
@@ -378,11 +378,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Bennett (18)<br />
+      Raiden Shogun (18)<br />
     </td>
   </tr>
   <tr>
@@ -401,18 +401,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7250 (rate 50)</td>
+    <td>7340 (rate 52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6336227 (rate 20)</td>
+    <td>6395731 (rate 21)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1886 (27%)<br />Adventure: 1385 (20%)<br />Spiral Abyss: 1200
-      (16%)<br />Mail: 1160 (16%)<br />Daily Activity: 960 (13%)<br />Quests:
-      610 (8%)<br />Other: 49 (0%)<br />
+      Events: 1886 (26%)<br />Adventure: 1445 (20%)<br />Spiral Abyss: 1200
+      (17%)<br />Mail: 1160 (16%)<br />Daily Activity: 960 (13%)<br />Quests:
+      640 (8%)<br />Other: 49 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3571,11 +3571,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
