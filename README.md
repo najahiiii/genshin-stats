@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>940</td>
+    <td>950</td>
   </tr>
   <tr>
     <td>Days active</td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Characters</td>
-    <td>63</td>
+    <td>64</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
@@ -47,24 +47,28 @@
     <td>181</td>
   </tr>
   <tr>
+    <td>Hydroculi</td>
+    <td>85</td>
+  </tr>
+  <tr>
     <td>Common chests opened</td>
-    <td>2347</td>
+    <td>2352</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1527</td>
+    <td>1542</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
-    <td>466</td>
+    <td>480</td>
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
-    <td>182</td>
+    <td>184</td>
   </tr>
   <tr>
     <td>Remarkable chests opened</td>
-    <td>149</td>
+    <td>151</td>
   </tr>
   <tr>
     <td>Domains unlocked</td>
@@ -165,12 +169,12 @@
         <tr>
           <td>Explored</td>
           <td align="center">
-            <img src="https://progress-bar.dev/13/" width="100" />
+            <img src="https://progress-bar.dev/23/" width="100" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">1</td>
+          <td align="center">2</td>
         </tr>
       </table>
     </td>
@@ -415,18 +419,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7425 (rate 54)</td>
+    <td>8070 (rate 67)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6510797 (rate 24)</td>
+    <td>7371249 (rate 40)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1886 (26%)<br />Adventure: 1450 (20%)<br />Spiral Abyss: 1200
-      (17%)<br />Mail: 1180 (16%)<br />Daily Activity: 1020 (13%)<br />Quests:
-      640 (8%)<br />Other: 49 (0%)<br />
+      Adventure: 1935 (24%)<br />Events: 1886 (24%)<br />Spiral Abyss: 1200
+      (15%)<br />Mail: 1180 (15%)<br />Daily Activity: 1020 (13%)<br />Quests:
+      800 (9%)<br />Other: 49 (0%)<br />
     </td>
   </tr>
 </table>
