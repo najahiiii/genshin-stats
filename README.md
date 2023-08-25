@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>950</td>
+    <td>951</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>901</td>
+    <td>903</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -352,11 +352,11 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shenhe_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
         ,
         height="18"
       />
-      Shenhe (9)<br />
+      Eula (9)<br />
     </td>
   </tr>
   <tr>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8070 (rate 67)</td>
+    <td>8140 (rate 69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7371249 (rate 40)</td>
+    <td>7483455 (rate 42)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1935 (24%)<br />Events: 1886 (24%)<br />Spiral Abyss: 1200
-      (15%)<br />Mail: 1180 (15%)<br />Daily Activity: 1020 (13%)<br />Quests:
+      Adventure: 1945 (24%)<br />Events: 1886 (24%)<br />Spiral Abyss: 1200
+      (15%)<br />Mail: 1180 (15%)<br />Daily Activity: 1080 (13%)<br />Quests:
       800 (9%)<br />Other: 49 (0%)<br />
     </td>
   </tr>
@@ -1433,7 +1433,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -5066,6 +5066,82 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Lyney</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Lyney</h4></th>
+      <th><h4 align="center">Amos' Bow</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liney_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ae9e893a162e08975d65d5e95c2d9a90.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
