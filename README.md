@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>951</td>
+    <td>962</td>
   </tr>
   <tr>
     <td>Days active</td>
@@ -56,11 +56,11 @@
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1542</td>
+    <td>1543</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
-    <td>480</td>
+    <td>492</td>
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2158</td>
+    <td>2160</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -337,26 +337,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Eula (9)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br />
     </td>
   </tr>
   <tr>
@@ -419,18 +419,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8140 (rate 69)</td>
+    <td>8790 (rate 82)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7483455 (rate 42)</td>
+    <td>8146728 (rate 55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1945 (24%)<br />Events: 1886 (24%)<br />Spiral Abyss: 1200
-      (15%)<br />Mail: 1180 (15%)<br />Daily Activity: 1080 (13%)<br />Quests:
-      800 (9%)<br />Other: 49 (0%)<br />
+      Events: 2186 (25%)<br />Adventure: 2085 (24%)<br />Spiral Abyss: 1200
+      (14%)<br />Mail: 1180 (14%)<br />Daily Activity: 1140 (13%)<br />Quests:
+      850 (9%)<br />Other: 149 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1146,7 +1146,7 @@
   <table>
     <tr>
       <th><h4 align="center">Venti</h4></th>
-      <th><h4 align="center">Skyward Harp</h4></th>
+      <th><h4 align="center">Amos' Bow</h4></th>
     </tr>
     <tr>
       <td>
@@ -1161,7 +1161,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/27f9029dde610df401669a1a64b7741f.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ae9e893a162e08975d65d5e95c2d9a90.png"
             ,
             height="256"
           />
@@ -1205,11 +1205,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>3</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1433,7 +1433,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -5078,7 +5078,7 @@
   <table>
     <tr>
       <th><h4 align="center">Lyney</h4></th>
-      <th><h4 align="center">Amos' Bow</h4></th>
+      <th><h4 align="center">Skyward Harp</h4></th>
     </tr>
     <tr>
       <td>
@@ -5093,7 +5093,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ae9e893a162e08975d65d5e95c2d9a90.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/27f9029dde610df401669a1a64b7741f.png"
             ,
             height="256"
           />
@@ -5113,11 +5113,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>60</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5125,7 +5125,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>
+              4 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -5141,7 +5143,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
