@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>903</td>
+    <td>904</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2352</td>
+    <td>2354</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1543</td>
+    <td>1544</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2160</td>
+    <td>2162</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -352,11 +352,11 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br />
+      Eula (9)<br />
     </td>
   </tr>
   <tr>
@@ -396,11 +396,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Bennett (18)<br />
+      Raiden Shogun (18)<br />
     </td>
   </tr>
   <tr>
@@ -419,18 +419,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8790 (rate 82)</td>
+    <td>9160 (rate 90)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8146728 (rate 55)</td>
+    <td>8524114 (rate 62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2186 (25%)<br />Adventure: 2085 (24%)<br />Spiral Abyss: 1200
-      (14%)<br />Mail: 1180 (14%)<br />Daily Activity: 1140 (13%)<br />Quests:
-      850 (9%)<br />Other: 149 (1%)<br />
+      Events: 2486 (28%)<br />Adventure: 2094 (23%)<br />Daily Activity: 1200
+      (14%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1180 (12%)<br />Quests: 850
+      (9%)<br />Other: 150 (1%)<br />
     </td>
   </tr>
 </table>
@@ -3455,12 +3455,88 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Lynette</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Lynette</h4></th>
+      <th><h4 align="center">Finale of the Deep</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Linette_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/d6c6023c298297a25925261942414eb7.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Anemo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Traveler</b></summary>
   <br />
   <table>
     <tr>
       <th><h4 align="center">Traveler</h4></th>
-      <th><h4 align="center">Harbinger of Dawn</h4></th>
+      <th><h4 align="center">Skyward Blade</h4></th>
     </tr>
     <tr>
       <td>
@@ -3475,7 +3551,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/338c8b10621d76f0d920d15f4da3918a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/067d5f24988443ca2b44baca00e9f4d4.png"
             ,
             height="256"
           />
@@ -3503,11 +3579,11 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>4 x Heart of Depth<br />1 x Blizzard Strayer<br /></td>
           </tr>
         </table>
       </td>
@@ -3515,7 +3591,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3523,7 +3599,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3684,82 +3760,6 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Lynette</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Lynette</h4></th>
-      <th><h4 align="center">Finale of the Deep</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Linette_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/d6c6023c298297a25925261942414eb7.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Anemo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Viridescent Venerer<br />1 x Thundering Fury<br /></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>3</td>
           </tr>
         </table>
       </td>
