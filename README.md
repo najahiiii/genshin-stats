@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>904</td>
+    <td>905</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -169,7 +169,7 @@
         <tr>
           <td>Explored</td>
           <td align="center">
-            <img src="https://progress-bar.dev/23/" width="100" />
+            <img src="https://progress-bar.dev/24/" width="100" />
           </td>
         </tr>
         <tr>
@@ -342,21 +342,21 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Eula (9)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Rosaria_Card.png"
+        ,
+        height="18"
+      />
+      Rosaria (9)<br />
     </td>
   </tr>
   <tr>
@@ -396,11 +396,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
       />
-      Raiden Shogun (18)<br />
+      Bennett (18)<br />
     </td>
   </tr>
   <tr>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9160 (rate 90)</td>
+    <td>9220 (rate 91)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8524114 (rate 62)</td>
+    <td>8641207 (rate 64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2486 (28%)<br />Adventure: 2094 (23%)<br />Daily Activity: 1200
-      (14%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1180 (12%)<br />Quests: 850
+      Events: 2486 (27%)<br />Adventure: 2094 (23%)<br />Daily Activity: 1260
+      (14%)<br />Spiral Abyss: 1200 (14%)<br />Mail: 1180 (12%)<br />Quests: 850
       (9%)<br />Other: 150 (1%)<br />
     </td>
   </tr>
