@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>962</td>
+    <td>963</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>905</td>
+    <td>906</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">2</td>
+          <td align="center">3</td>
         </tr>
       </table>
     </td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2162</td>
+    <td>2173</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,21 +342,21 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Rosaria_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
-      Rosaria (9)<br />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br />
     </td>
   </tr>
   <tr>
@@ -419,18 +419,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9220 (rate 91)</td>
+    <td>9580 (rate 99)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8641207 (rate 64)</td>
+    <td>9185417 (rate 75)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2486 (27%)<br />Adventure: 2094 (23%)<br />Daily Activity: 1260
-      (14%)<br />Spiral Abyss: 1200 (14%)<br />Mail: 1180 (12%)<br />Quests: 850
-      (9%)<br />Other: 150 (1%)<br />
+      Events: 2786 (30%)<br />Adventure: 2094 (22%)<br />Daily Activity: 1320
+      (14%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1180 (12%)<br />Quests: 850
+      (8%)<br />Other: 150 (1%)<br />
     </td>
   </tr>
 </table>
@@ -5117,7 +5117,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
