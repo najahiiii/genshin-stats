@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>963</td>
+    <td>964</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>906</td>
+    <td>907</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2354</td>
+    <td>2356</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1544</td>
+    <td>1545</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
-    <td>184</td>
+    <td>185</td>
   </tr>
   <tr>
     <td>Remarkable chests opened</td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2173</td>
+    <td>2177</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,21 +342,21 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shenhe_Card.png"
+        ,
+        height="18"
+      />
+      Shenhe (9)<br />
     </td>
   </tr>
   <tr>
@@ -396,11 +396,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Bennett (18)<br />
+      Raiden Shogun (18)<br />
     </td>
   </tr>
   <tr>
@@ -419,18 +419,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9580 (rate 99)</td>
+    <td>9740 (rate 102)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9185417 (rate 75)</td>
+    <td>9355832 (rate 78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2786 (30%)<br />Adventure: 2094 (22%)<br />Daily Activity: 1320
-      (14%)<br />Spiral Abyss: 1200 (13%)<br />Mail: 1180 (12%)<br />Quests: 850
-      (8%)<br />Other: 150 (1%)<br />
+      Events: 2786 (29%)<br />Adventure: 2173 (23%)<br />Daily Activity: 1380
+      (15%)<br />Spiral Abyss: 1200 (12%)<br />Mail: 1180 (12%)<br />Quests: 870
+      (8%)<br />Other: 151 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1146,7 +1146,7 @@
   <table>
     <tr>
       <th><h4 align="center">Venti</h4></th>
-      <th><h4 align="center">Amos' Bow</h4></th>
+      <th><h4 align="center">Skyward Harp</h4></th>
     </tr>
     <tr>
       <td>
@@ -1161,7 +1161,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/ae9e893a162e08975d65d5e95c2d9a90.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/27f9029dde610df401669a1a64b7741f.png"
             ,
             height="256"
           />
@@ -1205,11 +1205,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
@@ -3499,7 +3499,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5078,7 +5078,7 @@
   <table>
     <tr>
       <th><h4 align="center">Lyney</h4></th>
-      <th><h4 align="center">Skyward Harp</h4></th>
+      <th><h4 align="center">The First Great Magic</h4></th>
     </tr>
     <tr>
       <td>
@@ -5093,7 +5093,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/27f9029dde610df401669a1a64b7741f.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/45f68326fad998b47900a3a91544c0da.png"
             ,
             height="256"
           />
@@ -5139,11 +5139,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>3</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -5295,7 +5295,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
