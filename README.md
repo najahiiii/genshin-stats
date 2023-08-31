@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>907</td>
+    <td>908</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -337,6 +337,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
@@ -347,11 +352,6 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shenhe_Card.png"
         ,
         height="18"
@@ -396,11 +396,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
       />
-      Raiden Shogun (18)<br />
+      Bennett (18)<br />
     </td>
   </tr>
   <tr>
@@ -419,16 +419,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9740 (rate 102)</td>
+    <td>9800 (rate 103)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9355832 (rate 78)</td>
+    <td>9439080 (rate 79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2786 (29%)<br />Adventure: 2173 (23%)<br />Daily Activity: 1380
+      Events: 2786 (29%)<br />Adventure: 2173 (23%)<br />Daily Activity: 1440
       (15%)<br />Spiral Abyss: 1200 (12%)<br />Mail: 1180 (12%)<br />Quests: 870
       (8%)<br />Other: 151 (1%)<br />
     </td>
@@ -567,7 +567,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Pale Flame<br />1 x Tenacity of the Millelith<br /></td>
+            <td>5 x Pale Flame<br /></td>
           </tr>
         </table>
       </td>
@@ -4233,6 +4233,84 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Lyney</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Lyney</h4></th>
+      <th><h4 align="center">The First Great Magic</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liney_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/45f68326fad998b47900a3a91544c0da.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>
+              4 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Yaoyao</b></summary>
   <br />
   <table>
@@ -5066,84 +5144,6 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Lyney</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Lyney</h4></th>
-      <th><h4 align="center">The First Great Magic</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liney_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/45f68326fad998b47900a3a91544c0da.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>
-              4 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
