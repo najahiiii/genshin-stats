@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -337,26 +337,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      Xingqiu (9)<br /><img
+      Sangonomiya Kokomi (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      Xingqiu (9)<br />
     </td>
   </tr>
   <tr>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>680 (rate -93)</td>
+    <td>1440 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>698427 (rate -92)</td>
+    <td>1764701 (rate -81)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (89%)<br />Daily Activity: 60 (9%)<br />Quests: 20
-      (2%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Adventure: 620 (44%)<br />Spiral Abyss: 600 (42%)<br />Daily Activity: 120
+      (8%)<br />Quests: 100 (6%)<br />Events: 0 (0%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3767,6 +3767,84 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Lyney</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Lyney</h4></th>
+      <th><h4 align="center">The First Great Magic</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liney_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/fe0553bc35c836a75726557d0f16aa08.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>
+              4 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Aloy</b></summary>
   <br />
   <table>
@@ -4226,84 +4304,6 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Lyney</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Lyney</h4></th>
-      <th><h4 align="center">The First Great Magic</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Liney_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/fe0553bc35c836a75726557d0f16aa08.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>
-              4 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
