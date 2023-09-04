@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>964</td>
+    <td>968</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>910</td>
+    <td>911</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,23 +52,23 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2356</td>
+    <td>2381</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1545</td>
+    <td>1601</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
-    <td>492</td>
+    <td>510</td>
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
-    <td>185</td>
+    <td>188</td>
   </tr>
   <tr>
     <td>Remarkable chests opened</td>
-    <td>151</td>
+    <td>159</td>
   </tr>
   <tr>
     <td>Domains unlocked</td>
@@ -169,7 +169,7 @@
         <tr>
           <td>Explored</td>
           <td align="center">
-            <img src="https://progress-bar.dev/24/" width="100" />
+            <img src="https://progress-bar.dev/31/" width="100" />
           </td>
         </tr>
         <tr>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2179</td>
+    <td>2183</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -337,16 +337,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
       Sangonomiya Kokomi (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1440 (rate -85)</td>
+    <td>1500 (rate -84)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1764701 (rate -81)</td>
+    <td>1832445 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 620 (44%)<br />Spiral Abyss: 600 (42%)<br />Daily Activity: 120
-      (8%)<br />Quests: 100 (6%)<br />Events: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Adventure: 620 (42%)<br />Spiral Abyss: 600 (40%)<br />Daily Activity: 180
+      (12%)<br />Quests: 100 (6%)<br />Events: 0 (0%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3499,7 +3499,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -3811,7 +3811,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Constellation</td>
