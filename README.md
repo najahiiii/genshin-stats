@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>911</td>
+    <td>913</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">3</td>
+          <td align="center">4</td>
         </tr>
       </table>
     </td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2183</td>
+    <td>2206</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -337,16 +337,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1500 (rate -84)</td>
+    <td>1650 (rate -83)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1832445 (rate -80)</td>
+    <td>2174299 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 620 (42%)<br />Spiral Abyss: 600 (40%)<br />Daily Activity: 180
-      (12%)<br />Quests: 100 (6%)<br />Events: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Adventure: 620 (38%)<br />Spiral Abyss: 600 (37%)<br />Daily Activity: 240
+      (14%)<br />Quests: 100 (6%)<br />Events: 70 (4%)<br />Mail: 20 (1%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
