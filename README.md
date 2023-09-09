@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>916</td>
+    <td>917</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -347,16 +347,16 @@
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
-        ,
-        height="18"
-      />
-      Xingqiu (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      Xingqiu (9)<br />
     </td>
   </tr>
   <tr>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2300 (rate -76)</td>
+    <td>2430 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2530468 (rate -73)</td>
+    <td>2637509 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 840 (37%)<br />Spiral Abyss: 600 (27%)<br />Daily Activity: 420
-      (19%)<br />Events: 320 (13%)<br />Quests: 100 (4%)<br />Mail: 20 (0%)<br />Other:
+      Adventure: 840 (35%)<br />Spiral Abyss: 600 (25%)<br />Daily Activity: 480
+      (20%)<br />Events: 390 (16%)<br />Quests: 100 (4%)<br />Mail: 20 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3575,7 +3575,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -3597,7 +3597,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>60</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
