@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -3499,7 +3499,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -3597,7 +3597,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
