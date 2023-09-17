@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>970</td>
+    <td>971</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>919</td>
+    <td>921</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">4</td>
+          <td align="center">5</td>
         </tr>
       </table>
     </td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2212</td>
+    <td>2222</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2700 (rate -72)</td>
+    <td>3060 (rate -69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3041821 (rate -68)</td>
+    <td>3149329 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 840 (32%)<br />Daily Activity: 660 (25%)<br />Spiral Abyss: 600
-      (22%)<br />Events: 460 (17%)<br />Quests: 100 (3%)<br />Mail: 40 (1%)<br />Other:
+      Adventure: 840 (28%)<br />Daily Activity: 720 (24%)<br />Spiral Abyss: 600
+      (19%)<br />Events: 460 (15%)<br />Mail: 340 (11%)<br />Quests: 100 (3%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
