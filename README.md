@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>922</td>
+    <td>923</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3120 (rate -68)</td>
+    <td>3200 (rate -67)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3312416 (rate -65)</td>
+    <td>3592511 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 840 (27%)<br />Daily Activity: 780 (26%)<br />Spiral Abyss: 600
-      (20%)<br />Events: 460 (14%)<br />Mail: 340 (10%)<br />Quests: 100 (3%)<br />Other:
+      Adventure: 840 (27%)<br />Daily Activity: 840 (27%)<br />Spiral Abyss: 600
+      (18%)<br />Events: 460 (14%)<br />Mail: 360 (11%)<br />Quests: 100 (3%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
