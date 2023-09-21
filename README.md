@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -428,7 +428,7 @@
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 840 (27%)<br />Daily Activity: 840 (27%)<br />Spiral Abyss: 600
+      Daily Activity: 840 (27%)<br />Adventure: 840 (27%)<br />Spiral Abyss: 600
       (18%)<br />Events: 460 (14%)<br />Mail: 360 (11%)<br />Quests: 100 (3%)<br />Other:
       0 (0%)<br />
     </td>
@@ -3575,7 +3575,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
