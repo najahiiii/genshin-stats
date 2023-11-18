@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -16,19 +16,19 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>971</td>
+    <td>973</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>925</td>
+    <td>926</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>64</td>
+    <td>65</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>348</td>
+    <td>353</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2381</td>
+    <td>2384</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
@@ -300,7 +300,7 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Fit for a King (21680)</td>
+    <td>Fit for a King (21870)</td>
   </tr>
   <tr>
     <td>Items</td>
@@ -315,122 +315,65 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>81</td>
+    <td>82</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>9</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>9</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>27</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (38)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
-        ,
-        height="18"
-      />
-      Eula (1319031)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (51463)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      Zhongli (11)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (35)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>570 (rate -76)</td>
+    <td>2150 (rate -11)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>505022 (rate 64)</td>
+    <td>1580159 (rate 413)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (79%)<br />Daily Activity: 60 (11%)<br />Mail: 60
-      (10%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Spiral Abyss: 1050 (49%)<br />Mail: 480 (23%)<br />Events: 460 (21%)<br />Daily
+      Activity: 120 (5%)<br />Adventure: 31 (1%)<br />Quests: 0 (0%)<br />Other:
+      9 (1%)<br />
     </td>
   </tr>
 </table>
