@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -337,26 +337,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sara_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      Kujou Sara (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      Xingqiu (9)<br />
+      Yelan (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2230 (rate -7)</td>
+    <td>2290 (rate -5)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1635391 (rate 431)</td>
+    <td>1802528 (rate 485)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1050 (48%)<br />Mail: 500 (22%)<br />Events: 460 (20%)<br />Daily
-      Activity: 180 (8%)<br />Adventure: 31 (1%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 1050 (46%)<br />Mail: 500 (22%)<br />Events: 460 (20%)<br />Daily
+      Activity: 240 (10%)<br />Adventure: 31 (1%)<br />Quests: 0 (0%)<br />Other:
       9 (1%)<br />
     </td>
   </tr>
@@ -751,7 +751,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kirara</h4></th>
-      <th><h4 align="center">Primordial Jade Cutter</h4></th>
+      <th><h4 align="center">Kagotsurube Isshin</h4></th>
     </tr>
     <tr>
       <td>
@@ -766,7 +766,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/1a30450d6a617aa510c8f1e93492a77a.png"
             ,
             height="256"
           />
@@ -808,7 +808,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1530,7 +1530,7 @@
   <table>
     <tr>
       <th><h4 align="center">Keqing</h4></th>
-      <th><h4 align="center">Kagotsurube Isshin</h4></th>
+      <th><h4 align="center">Primordial Jade Cutter</h4></th>
     </tr>
     <tr>
       <td>
@@ -1545,7 +1545,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/1a30450d6a617aa510c8f1e93492a77a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png"
             ,
             height="256"
           />
@@ -1589,7 +1589,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5203,7 +5203,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>4 x Golden Troupe<br />1 x Heart of Depth<br /></td>
           </tr>
         </table>
       </td>
