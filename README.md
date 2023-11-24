@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -347,16 +347,16 @@
         height="18"
       />
       Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      Xingqiu (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      Yelan (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br />
+      Yelan (9)<br />
     </td>
   </tr>
   <tr>
