@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -337,21 +337,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
-      Bennett (9)<br /><img
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      Xingqiu (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sara_Card.png"
         ,
         height="18"
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2354 (rate -2)</td>
+    <td>2364 (rate -2)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1915996 (rate 522)</td>
+    <td>1925314 (rate 525)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1050 (45%)<br />Mail: 500 (22%)<br />Events: 460 (19%)<br />Daily
-      Activity: 300 (12%)<br />Adventure: 31 (1%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 1050 (45%)<br />Mail: 500 (21%)<br />Events: 460 (19%)<br />Daily
+      Activity: 310 (13%)<br />Adventure: 31 (1%)<br />Quests: 0 (0%)<br />Other:
       13 (1%)<br />
     </td>
   </tr>
@@ -4683,7 +4683,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
