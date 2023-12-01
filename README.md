@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>931</td>
+    <td>932</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -347,16 +347,16 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Sara_Card.png"
         ,
         height="18"
       />
-      Kujou Sara (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
-        ,
-        height="18"
-      />
-      Xingqiu (9)<br />
+      Kujou Sara (9)<br />
     </td>
   </tr>
   <tr>
@@ -419,18 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2480 (rate 2)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2062363 (rate 569)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1050 (43%)<br />Mail: 500 (21%)<br />Events: 460 (18%)<br />Daily
-      Activity: 420 (16%)<br />Adventure: 36 (1%)<br />Quests: 0 (0%)<br />Other:
-      14 (1%)<br />
+      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
+      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4311,6 +4310,82 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Furina</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Furina</h4></th>
+      <th><h4 align="center">Fleuve Cendre Ferryman</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b6259f0f93f824b169b50b6bc593dd08.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Golden Troupe<br />1 x Heart of Depth<br /></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Yaoyao</b></summary>
   <br />
   <table>
@@ -4376,82 +4451,6 @@
           <tr>
             <td>Level</td>
             <td>60</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Furina</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Furina</h4></th>
-      <th><h4 align="center">Fleuve Cendre Ferryman</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Furina_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b6259f0f93f824b169b50b6bc593dd08.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>69</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Golden Troupe<br />1 x Heart of Depth<br /></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
