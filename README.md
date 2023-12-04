@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>932</td>
+    <td>934</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -315,11 +315,11 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>82</td>
+    <td>83</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -337,59 +337,59 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+      Sangonomiya Kokomi (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
         ,
         height="18"
       />
-      Bennett (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br />
+      Kamisato Ayaka (12)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
         ,
         height="18"
       />
-      Yelan (28)<br />
+      Kamisato Ayaka (44)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Eula (995878)<br />
+      Raiden Shogun (199480)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Baizhuer_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Baizhu (15445)<br />
+      Raiden Shogun (71749)<br />
     </td>
   </tr>
   <tr>
@@ -400,18 +400,18 @@
         ,
         height="18"
       />
-      Yelan (17)<br />
+      Yelan (30)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      Bennett (50)<br />
+      Yelan (214)<br />
     </td>
   </tr>
 </table>
@@ -419,18 +419,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>460 (rate -81)</td>
+    <td>1380 (rate -44)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>83932 (rate -95)</td>
+    <td>829669 (rate -59)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 400 (87%)<br />Daily Activity: 60 (13%)<br />Events: 0 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Mail: 620 (45%)<br />Spiral Abyss: 600 (44%)<br />Daily Activity: 120
+      (9%)<br />Events: 40 (2%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -794,7 +794,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -5199,7 +5199,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
