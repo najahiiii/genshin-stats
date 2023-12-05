@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -337,26 +337,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (12)<br />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -423,7 +423,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>829669 (rate -59)</td>
+    <td>840502 (rate -59)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -751,7 +751,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kirara</h4></th>
-      <th><h4 align="center">Kagotsurube Isshin</h4></th>
+      <th><h4 align="center">Primordial Jade Cutter</h4></th>
     </tr>
     <tr>
       <td>
@@ -766,7 +766,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/1a30450d6a617aa510c8f1e93492a77a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png"
             ,
             height="256"
           />
@@ -808,7 +808,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1530,7 +1530,7 @@
   <table>
     <tr>
       <th><h4 align="center">Keqing</h4></th>
-      <th><h4 align="center">Primordial Jade Cutter</h4></th>
+      <th><h4 align="center">Kagotsurube Isshin</h4></th>
     </tr>
     <tr>
       <td>
@@ -1545,7 +1545,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3cd6da342d8ca68ccf979852d8d66dbb.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/1a30450d6a617aa510c8f1e93492a77a.png"
             ,
             height="256"
           />
@@ -1589,7 +1589,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
