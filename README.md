@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,15 +20,15 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>934</td>
+    <td>936</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>65</td>
+    <td>66</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>353</td>
+    <td>354</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2384</td>
+    <td>2386</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
-    <td>188</td>
+    <td>189</td>
   </tr>
   <tr>
     <td>Remarkable chests opened</td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2224</td>
+    <td>2225</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -337,26 +337,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
+      Sangonomiya Kokomi (12)<br />
     </td>
   </tr>
   <tr>
