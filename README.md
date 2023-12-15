@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>936</td>
+    <td>937</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>354</td>
+    <td>393</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Hydroculi</td>
-    <td>85</td>
+    <td>86</td>
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2386</td>
+    <td>2389</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
@@ -169,7 +169,7 @@
         <tr>
           <td>Explored</td>
           <td align="center">
-            <img src="https://progress-bar.dev/31/" width="100" />
+            <img src="https://progress-bar.dev/37/" width="100" />
           </td>
         </tr>
         <tr>
@@ -337,16 +337,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
-        ,
-        height="18"
-      />
-      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
@@ -356,7 +346,17 @@
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -419,18 +419,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2750 (rate 10)</td>
+    <td>4260 (rate 71)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2319702 (rate 12)</td>
+    <td>2870023 (rate 39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 950 (35%)<br />Mail: 820 (30%)<br />Spiral Abyss: 600 (22%)<br />Daily
-      Activity: 240 (9%)<br />Adventure: 49 (1%)<br />Quests: 0 (0%)<br />Other:
-      91 (3%)<br />
+      Mail: 1640 (39%)<br />Events: 1370 (33%)<br />Spiral Abyss: 600 (14%)<br />Daily
+      Activity: 300 (7%)<br />Adventure: 255 (5%)<br />Quests: 0 (0%)<br />Other:
+      95 (2%)<br />
     </td>
   </tr>
 </table>
