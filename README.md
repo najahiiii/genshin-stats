@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -342,21 +342,21 @@
         height="18"
       />
       Yelan (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (12)<br />
+      Kamisato Ayaka (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Nahida_Card.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (12)<br />
     </td>
   </tr>
   <tr>
@@ -419,17 +419,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5690 (rate 129)</td>
+    <td>5850 (rate 135)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3565889 (rate 72)</td>
+    <td>3709574 (rate 79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2360 (42%)<br />Events: 1410 (25%)<br />Spiral Abyss: 1200 (22%)<br />Daily
-      Activity: 360 (6%)<br />Adventure: 262 (4%)<br />Quests: 0 (0%)<br />Other:
+      Mail: 2460 (43%)<br />Events: 1410 (25%)<br />Spiral Abyss: 1200 (20%)<br />Daily
+      Activity: 420 (7%)<br />Adventure: 262 (4%)<br />Quests: 0 (0%)<br />Other:
       98 (1%)<br />
     </td>
   </tr>
@@ -5503,7 +5503,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
