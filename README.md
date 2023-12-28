@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>938</td>
+    <td>939</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -39,16 +39,12 @@
     <td>131</td>
   </tr>
   <tr>
-    <td>Dendroculi</td>
-    <td>271</td>
+    <td></td>
+    <td>86</td>
   </tr>
   <tr>
     <td>Electroculi</td>
     <td>181</td>
-  </tr>
-  <tr>
-    <td>Hydroculi</td>
-    <td>86</td>
   </tr>
   <tr>
     <td>Common chests opened</td>
@@ -342,6 +338,11 @@
         height="18"
       />
       Yelan (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
         ,
         height="18"
@@ -351,12 +352,7 @@
         ,
         height="18"
       />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kokomi_Card.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (12)<br />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
