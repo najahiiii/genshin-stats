@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>941</td>
+    <td>943</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -170,7 +170,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">5</td>
+          <td align="center">6</td>
         </tr>
       </table>
     </td>
@@ -300,7 +300,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2226</td>
+    <td>2230</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -311,15 +311,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>84</td>
+    <td>85</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>30</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -331,102 +331,45 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (42)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
-        ,
-        height="18"
-      />
-      Eula (1190623)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (230174)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (34)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (92)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>30 (rate -99)</td>
+    <td>1670 (rate -71)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>40000 (rate -98)</td>
+    <td>1353411 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 30 (100%)<br />Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 860 (52%)<br />Spiral Abyss: 600 (36%)<br />Daily Activity: 60
+      (4%)<br />Mail: 50 (2%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      100 (6%)<br />
     </td>
   </tr>
 </table>
