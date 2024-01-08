@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -331,45 +331,102 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        ,
+        height="18"
+      />
+      Yelan (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      Zhongli (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
+        ,
+        height="18"
+      />
+      Xingqiu (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (10)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (36)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
+        ,
+        height="18"
+      />
+      Eula (1385125)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Ayaka_Card.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (60059)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        ,
+        height="18"
+      />
+      Bennett (20)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
+        ,
+        height="18"
+      />
+      Bennett (84)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1670 (rate -71)</td>
+    <td>2310 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1353411 (rate -64)</td>
+    <td>1894514 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 860 (52%)<br />Spiral Abyss: 600 (36%)<br />Daily Activity: 60
-      (4%)<br />Mail: 50 (2%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
-      100 (6%)<br />
+      Events: 860 (38%)<br />Spiral Abyss: 600 (26%)<br />Adventure: 167 (7%)<br />Daily
+      Activity: 120 (5%)<br />Quests: 110 (4%)<br />Mail: 50 (2%)<br />Other:
+      403 (18%)<br />
     </td>
   </tr>
 </table>
@@ -690,7 +747,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kirara</h4></th>
-      <th><h4 align="center">Primordial Jade Cutter</h4></th>
+      <th><h4 align="center">Kagotsurube Isshin</h4></th>
     </tr>
     <tr>
       <td>
@@ -705,7 +762,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0b9121240dd7420571d860e347c07fde.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/800d456e5ea66fa1d62da713af824eff.png"
             ,
             height="256"
           />
@@ -747,7 +804,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1469,7 +1526,7 @@
   <table>
     <tr>
       <th><h4 align="center">Keqing</h4></th>
-      <th><h4 align="center">Kagotsurube Isshin</h4></th>
+      <th><h4 align="center">Primordial Jade Cutter</h4></th>
     </tr>
     <tr>
       <td>
@@ -1484,7 +1541,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/800d456e5ea66fa1d62da713af824eff.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/0b9121240dd7420571d860e347c07fde.png"
             ,
             height="256"
           />
@@ -1528,7 +1585,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3214,7 +3271,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -3592,7 +3649,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5166,6 +5223,82 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Freminet</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Freminet</h4></th>
+      <th><h4 align="center">Tidal Shadow</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Freminet_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/fd0effccd5f5bb88ea49f74eda66df95.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Barbara</b></summary>
   <br />
   <table>
@@ -5391,82 +5524,6 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Freminet</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Freminet</h4></th>
-      <th><h4 align="center">Tidal Shadow</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Freminet_Card.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/fd0effccd5f5bb88ea49f74eda66df95.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>2</td>
           </tr>
         </table>
       </td>
