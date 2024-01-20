@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -333,16 +333,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
-        ,
-        height="18"
-      />
-      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
         ,
         height="18"
       />
       Yelan (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
+        ,
+        height="18"
+      />
+      Zhongli (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
         ,
         height="18"
@@ -415,18 +415,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2430 (rate -58)</td>
+    <td>2870 (rate -51)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2199209 (rate -41)</td>
+    <td>2376293 (rate -37)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 860 (36%)<br />Spiral Abyss: 600 (25%)<br />Daily Activity: 240
-      (10%)<br />Adventure: 167 (6%)<br />Quests: 110 (4%)<br />Mail: 50 (2%)<br />Other:
-      403 (17%)<br />
+      Events: 900 (32%)<br />Spiral Abyss: 600 (21%)<br />Mail: 390 (14%)<br />Daily
+      Activity: 300 (10%)<br />Adventure: 167 (5%)<br />Quests: 110 (3%)<br />Other:
+      403 (15%)<br />
     </td>
   </tr>
 </table>
@@ -3649,7 +3649,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
