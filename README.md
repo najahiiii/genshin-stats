@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>977</td>
+    <td>981</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>945</td>
+    <td>946</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -333,16 +333,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
-        ,
-        height="18"
-      />
-      Yelan (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Zhongli_Card.png"
         ,
         height="18"
       />
       Zhongli (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Yelan_Card.png"
+        ,
+        height="18"
+      />
+      Yelan (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Xingqiu_Card.png"
         ,
         height="18"
