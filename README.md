@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -714,7 +714,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Artifacts</td>
