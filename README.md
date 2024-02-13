@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>951</td>
+    <td>952</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -361,7 +361,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>49000 (rate -98)</td>
+    <td>129000 (rate -95)</td>
   </tr>
   <tr>
     <td>Categories</td>
