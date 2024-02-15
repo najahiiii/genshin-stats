@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -361,7 +361,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>129000 (rate -95)</td>
+    <td>137000 (rate -95)</td>
   </tr>
   <tr>
     <td>Categories</td>
