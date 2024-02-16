@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>952</td>
+    <td>953</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -361,7 +361,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>137000 (rate -95)</td>
+    <td>138000 (rate -95)</td>
   </tr>
   <tr>
     <td>Categories</td>
