@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -361,7 +361,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>138000 (rate -95)</td>
+    <td>143000 (rate -95)</td>
   </tr>
   <tr>
     <td>Categories</td>
