@@ -412,16 +412,16 @@
         height="18"
       />
       Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Rosaria_Card.png"
+        ,
+        height="18"
+      />
+      Rosaria (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
         ,
         height="18"
       />
-      Eula (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shenhe_Card.png"
-        ,
-        height="18"
-      />
-      Shenhe (9)<br />
+      Eula (9)<br />
     </td>
   </tr>
   <tr>
