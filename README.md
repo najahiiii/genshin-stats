@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -412,11 +412,11 @@
         height="18"
       />
       Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shenhe_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
         ,
         height="18"
       />
-      Shenhe (9)<br /><img
+      Kaedehara Kazuha (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
         ,
         height="18"
@@ -477,18 +477,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1240 (rate -70)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1118936 (rate -61)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (49%)<br />Mail: 120 (10%)<br />Daily Activity: 60
-      (4%)<br />Adventure: 40 (3%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      420 (34%)<br />
+      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
+      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
