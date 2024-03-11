@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>956</td>
+    <td>957</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -369,7 +369,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2241</td>
+    <td>2242</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -402,26 +402,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Bennett_Card.png"
         ,
         height="18"
       />
       Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Shougun_Card.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br /><img
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Eula_Card.png"
         ,
         height="18"
       />
-      Eula (9)<br />
+      Eula (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_card_icon/UI_AvatarIcon_Kazuha_Card.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (9)<br />
     </td>
   </tr>
   <tr>
@@ -477,17 +477,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>620 (rate -50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>543317 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
-      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Events: 140 (23%)<br />Daily Activity: 60 (9%)<br />Spiral Abyss: 0
+      (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      420 (68%)<br />
     </td>
   </tr>
 </table>
