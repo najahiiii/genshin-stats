@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -406,6 +406,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (18)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -416,11 +421,6 @@
         height="18"
       />
       Eula (18)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (18)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -457,11 +457,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Zhongli (24)<br />
+      Yelan (24)<br />
     </td>
   </tr>
   <tr>
@@ -480,17 +480,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2360 (rate 90)</td>
+    <td>3380 (rate 172)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1717823 (rate 53)</td>
+    <td>2468698 (rate 120)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 760 (33%)<br />Mail: 640 (27%)<br />Spiral Abyss: 600 (25%)<br />Daily
-      Activity: 360 (15%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      Events: 1720 (51%)<br />Mail: 640 (19%)<br />Spiral Abyss: 600 (18%)<br />Daily
+      Activity: 420 (12%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -1055,7 +1055,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kaedehara Kazuha</h4></th>
-      <th><h4 align="center">Iron Sting</h4></th>
+      <th><h4 align="center">The Black Sword</h4></th>
     </tr>
     <tr>
       <td>
@@ -1070,7 +1070,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/44a91274cb360af86c1b62500dc19263.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/90ffe805f90cd09c541358da782f6816.png"
             ,
             height="256"
           />
@@ -1118,7 +1118,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2177,9 +2177,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              4 x Flower of Paradise Lost<br />1 x Viridescent Venerer<br />
-            </td>
+            <td>5 x Flower of Paradise Lost<br /></td>
           </tr>
         </table>
       </td>
@@ -3219,7 +3217,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kuki Shinobu</h4></th>
-      <th><h4 align="center">The Black Sword</h4></th>
+      <th><h4 align="center">Iron Sting</h4></th>
     </tr>
     <tr>
       <td>
@@ -3234,7 +3232,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/90ffe805f90cd09c541358da782f6816.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/44a91274cb360af86c1b62500dc19263.png"
             ,
             height="256"
           />
@@ -3266,7 +3264,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Flower of Paradise Lost<br />1 x Pale Flame<br /></td>
+            <td>
+              4 x Flower of Paradise Lost<br />1 x Viridescent Venerer<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -3282,7 +3282,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
