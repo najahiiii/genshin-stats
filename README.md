@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -404,44 +404,93 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (10)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (10)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (10)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (10)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (39)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (885568)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (98258)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (14)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (34)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3440 (rate 177)</td>
+    <td>3650 (rate 194)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2846904 (rate 154)</td>
+    <td>3021379 (rate 170)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1720 (51%)<br />Mail: 640 (19%)<br />Spiral Abyss: 600 (17%)<br />Daily
-      Activity: 480 (13%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      Events: 1870 (52%)<br />Mail: 640 (18%)<br />Spiral Abyss: 600 (16%)<br />Daily
+      Activity: 540 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
