@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>964</td>
+    <td>965</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -388,29 +388,24 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>12-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>32</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (10)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
@@ -425,7 +420,12 @@
         ,
         height="18"
       />
-      Nahida (10)<br />
+      Nahida (10)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (10)<br />
     </td>
   </tr>
   <tr>
@@ -480,18 +480,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3650 (rate 194)</td>
+    <td>3860 (rate 211)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3021379 (rate 170)</td>
+    <td>3194629 (rate 185)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1870 (52%)<br />Mail: 640 (18%)<br />Spiral Abyss: 600 (16%)<br />Daily
-      Activity: 540 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Events: 2000 (52%)<br />Mail: 660 (18%)<br />Daily Activity: 600 (15%)<br />Spiral
+      Abyss: 600 (15%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -4456,7 +4456,7 @@
   <table>
     <tr>
       <th><h4 align="center">Yaoyao</h4></th>
-      <th><h4 align="center">Black Tassel</h4></th>
+      <th><h4 align="center">Dialogues of the Desert Sages</h4></th>
     </tr>
     <tr>
       <td>
@@ -4471,7 +4471,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/9fe9132b4e4d86032bfec125f0af7c7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ba66ddd3288749d45c3e79e62d41b1f7.png"
             ,
             height="256"
           />
@@ -4511,11 +4511,11 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>60</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
