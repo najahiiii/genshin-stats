@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>965</td>
+    <td>967</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -373,7 +373,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2242</td>
+    <td>2243</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -410,22 +410,22 @@
         ,
         height="18"
       />
-      Kuki Shinobu (10)<br /><img
+      Kuki Shinobu (11)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Eula (10)<br /><img
+      Eula (11)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (11)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (10)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (10)<br />
+      Nahida (11)<br />
     </td>
   </tr>
   <tr>
@@ -436,7 +436,7 @@
         ,
         height="18"
       />
-      Kuki Shinobu (39)<br />
+      Kuki Shinobu (40)<br />
     </td>
   </tr>
   <tr>
@@ -454,25 +454,29 @@
         ,
         height="18"
       />
-      Nahida (98258)<br />
+      Nahida (121863)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Kuki Shinobu (14)<br />
+      Yelan (15)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (34)<br />
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (55)<br />
     </td>
   </tr>
 </table>
@@ -480,18 +484,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3860 (rate 211)</td>
+    <td>4422 (rate 256)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3194629 (rate 185)</td>
+    <td>3465952 (rate 209)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2000 (52%)<br />Mail: 660 (18%)<br />Daily Activity: 600 (15%)<br />Spiral
-      Abyss: 600 (15%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 2000 (46%)<br />Spiral Abyss: 1100 (25%)<br />Daily Activity: 660
+      (14%)<br />Mail: 660 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      2 (1%)<br />
     </td>
   </tr>
 </table>
