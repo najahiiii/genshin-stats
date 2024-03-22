@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -406,26 +406,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kuki Shinobu (11)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+      Nahida (11)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Eula (11)<br /><img
+      Zhongli (11)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (11)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Nahida (11)<br />
+      Kuki Shinobu (11)<br />
     </td>
   </tr>
   <tr>
@@ -461,11 +461,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Yelan (15)<br />
+      Kuki Shinobu (15)<br />
     </td>
   </tr>
   <tr>
