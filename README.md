@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -377,7 +377,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>36</td>
+    <td>37</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -406,26 +406,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Raiden Shogun (11)<br /><img
+      Nahida (11)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
       Kuki Shinobu (11)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Eula (11)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+      Raiden Shogun (11)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Nahida (11)<br />
+      Zhongli (11)<br />
     </td>
   </tr>
   <tr>
@@ -461,11 +461,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Yelan (15)<br />
+      Kuki Shinobu (15)<br />
     </td>
   </tr>
   <tr>
