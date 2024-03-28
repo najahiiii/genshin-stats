@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>967</td>
+    <td>969</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -215,7 +215,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">6</td>
+          <td align="center">7</td>
         </tr>
       </table>
     </td>
@@ -373,7 +373,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2243</td>
+    <td>2253</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -388,40 +388,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>15</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-2</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>32</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (11)<br /><img
+      <img
         src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (11)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (11)<br /><img
+      Raiden Shogun (17)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (11)<br />
+      Zhongli (14)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (14)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (14)<br />
     </td>
   </tr>
   <tr>
@@ -432,14 +436,14 @@
         ,
         height="18"
       />
-      Kuki Shinobu (40)<br />
+      Kuki Shinobu (43)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (885568)<br />
+      Eula (1260057)<br />
     </td>
   </tr>
   <tr>
@@ -450,18 +454,18 @@
         ,
         height="18"
       />
-      Nahida (121863)<br />
+      Nahida (198138)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (15)<br />
+      Raiden Shogun (27)<br />
     </td>
   </tr>
   <tr>
@@ -472,7 +476,7 @@
         ,
         height="18"
       />
-      Yelan (55)<br />
+      Yelan (91)<br />
     </td>
   </tr>
 </table>
@@ -480,17 +484,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4422 (rate 256)</td>
+    <td>4582 (rate 269)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3465952 (rate 209)</td>
+    <td>3832489 (rate 242)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2000 (46%)<br />Spiral Abyss: 1100 (25%)<br />Daily Activity: 660
-      (14%)<br />Mail: 660 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      Events: 2000 (44%)<br />Spiral Abyss: 1200 (26%)<br />Daily Activity: 720
+      (15%)<br />Mail: 660 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
       2 (1%)<br />
     </td>
   </tr>
@@ -1055,7 +1059,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kaedehara Kazuha</h4></th>
-      <th><h4 align="center">The Black Sword</h4></th>
+      <th><h4 align="center">Iron Sting</h4></th>
     </tr>
     <tr>
       <td>
@@ -1070,7 +1074,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/90ffe805f90cd09c541358da782f6816.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/44a91274cb360af86c1b62500dc19263.png"
             ,
             height="256"
           />
@@ -1118,7 +1122,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2970,7 +2974,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>60</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -3217,7 +3221,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kuki Shinobu</h4></th>
-      <th><h4 align="center">Iron Sting</h4></th>
+      <th><h4 align="center">The Black Sword</h4></th>
     </tr>
     <tr>
       <td>
@@ -3232,7 +3236,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/44a91274cb360af86c1b62500dc19263.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/90ffe805f90cd09c541358da782f6816.png"
             ,
             height="256"
           />
@@ -3282,7 +3286,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3717,7 +3721,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5337,7 +5341,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Constellation</td>
