@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -411,6 +411,11 @@
         height="18"
       />
       Raiden Shogun (17)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (14)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -420,12 +425,7 @@
         ,
         height="18"
       />
-      Nahida (14)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (14)<br />
+      Nahida (14)<br />
     </td>
   </tr>
   <tr>
@@ -484,17 +484,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4582 (rate 269)</td>
+    <td>4642 (rate 274)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3832489 (rate 242)</td>
+    <td>3921145 (rate 250)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2000 (44%)<br />Spiral Abyss: 1200 (26%)<br />Daily Activity: 720
-      (15%)<br />Mail: 660 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      Events: 2000 (44%)<br />Spiral Abyss: 1200 (25%)<br />Daily Activity: 780
+      (16%)<br />Mail: 660 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
       2 (1%)<br />
     </td>
   </tr>
