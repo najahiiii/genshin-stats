@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>969</td>
+    <td>970</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -411,16 +411,16 @@
         height="18"
       />
       Raiden Shogun (17)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (14)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (14)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (14)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -484,17 +484,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4642 (rate 274)</td>
+    <td>4672 (rate 276)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3921145 (rate 250)</td>
+    <td>3946145 (rate 252)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2000 (44%)<br />Spiral Abyss: 1200 (25%)<br />Daily Activity: 780
-      (16%)<br />Mail: 660 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      Events: 2000 (43%)<br />Spiral Abyss: 1200 (26%)<br />Daily Activity: 780
+      (16%)<br />Mail: 690 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
       2 (1%)<br />
     </td>
   </tr>
@@ -1903,7 +1903,7 @@
   <table>
     <tr>
       <th><h4 align="center">Yae Miko</h4></th>
-      <th><h4 align="center">Eye of Perception</h4></th>
+      <th><h4 align="center">Lost Prayer to the Sacred Winds</h4></th>
     </tr>
     <tr>
       <td>
@@ -1918,7 +1918,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/51379814ee2d72bdc3035439a8c37831.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/5dbffe188e5b6117b4420acd918a6cf1.png"
             ,
             height="256"
           />
@@ -1958,15 +1958,15 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3989,6 +3989,82 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Tartaglia</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Tartaglia</h4></th>
+      <th><h4 align="center">Rust</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Tartaglia.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/8a097b9f11f89875e515f09783dd36d3.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Aloy</b></summary>
   <br />
   <table>
@@ -4495,7 +4571,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>69</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -4520,82 +4596,6 @@
           <tr>
             <td>Level</td>
             <td>20</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Tartaglia</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Tartaglia</h4></th>
-      <th><h4 align="center">Rust</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Tartaglia.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/8a097b9f11f89875e515f09783dd36d3.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
