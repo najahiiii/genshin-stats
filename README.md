@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>970</td>
+    <td>973</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2396</td>
+    <td>2400</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
@@ -215,7 +215,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">7</td>
+          <td align="center">8</td>
         </tr>
       </table>
     </td>
@@ -373,7 +373,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2253</td>
+    <td>2264</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -384,15 +384,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>90</td>
+    <td>91</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>26</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>17</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -406,77 +406,69 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Raiden Shogun (17)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (14)<br /><img
+      Bennett (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Eula (14)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+      Eula (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
         ,
         height="18"
       />
-      Nahida (14)<br />
+      Lisa (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shinobu.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Kuki Shinobu (43)<br />
+      Hu Tao (47)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (1260057)<br />
+      Eula (1537941)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (198138)<br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (72364)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Raiden Shogun (27)<br />
+      Hu Tao (64)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (91)<br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (100)<br />
     </td>
   </tr>
 </table>
@@ -484,18 +476,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4732 (rate 281)</td>
+    <td>1188 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4007805 (rate 258)</td>
+    <td>1305031 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2000 (43%)<br />Spiral Abyss: 1200 (25%)<br />Daily Activity: 840
-      (17%)<br />Mail: 690 (14%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
-      2 (1%)<br />
+      Spiral Abyss: 600 (51%)<br />Events: 460 (38%)<br />Daily Activity: 120
+      (10%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -816,7 +808,7 @@
   <table>
     <tr>
       <th><h4 align="center">Kirara</h4></th>
-      <th><h4 align="center">Kagotsurube Isshin</h4></th>
+      <th><h4 align="center">Fillet Blade</h4></th>
     </tr>
     <tr>
       <td>
@@ -831,7 +823,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/5d74e8e940d14645a86a156c42343c79.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/79eb74e18fc2fc97e3b7cf2f17f56cea.png"
             ,
             height="256"
           />
@@ -873,7 +865,7 @@
         <table>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -881,7 +873,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3897,7 +3889,86 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Xingqiu</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Xingqiu</h4></th>
+      <th><h4 align="center">Sacrificial Sword</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/0d06e82b6bef3a83ef55eb41cffa8647.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>
+              2 x Heart of Depth<br />2 x Emblem of Severed Fate<br />1 x
+              Tenacity of the Millelith<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -3982,6 +4053,158 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Sucrose</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Sucrose</h4></th>
+      <th><h4 align="center">Sacrificial Fragments</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/88380c232821d4627c92475fcc5103fb.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Anemo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>79</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Faruzan</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Faruzan</h4></th>
+      <th><h4 align="center">Fading Twilight</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Faruzan.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/5a94e424c500f37940cac6bd069646c5.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Anemo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>79</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -4224,85 +4447,6 @@
   </table>
 </details>
 <details open>
-  <summary align="center"><b>Xingqiu</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Xingqiu</h4></th>
-      <th><h4 align="center">Sacrificial Sword</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/0d06e82b6bef3a83ef55eb41cffa8647.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>
-              2 x Heart of Depth<br />2 x Emblem of Severed Fate<br />1 x
-              Tenacity of the Millelith<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
   <summary align="center"><b>Noelle</b></summary>
   <br />
   <table>
@@ -4372,158 +4516,6 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Sucrose</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Sucrose</h4></th>
-      <th><h4 align="center">Sacrificial Fragments</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/88380c232821d4627c92475fcc5103fb.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Anemo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Faruzan</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Faruzan</h4></th>
-      <th><h4 align="center">Fading Twilight</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Faruzan.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/5a94e424c500f37940cac6bd069646c5.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Anemo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
