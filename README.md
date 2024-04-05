@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>973</td>
+    <td>974</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -373,7 +373,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2264</td>
+    <td>2265</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -406,6 +406,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -420,12 +425,7 @@
         ,
         height="18"
       />
-      Lisa (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (15)<br />
+      Lisa (15)<br />
     </td>
   </tr>
   <tr>
@@ -467,8 +467,12 @@
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (100)<br />
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (100)<br />
     </td>
   </tr>
 </table>
