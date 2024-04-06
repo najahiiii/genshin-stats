@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -406,6 +406,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -420,12 +425,7 @@
         ,
         height="18"
       />
-      Eula (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
-        ,
-        height="18"
-      />
-      Lisa (15)<br />
+      Eula (15)<br />
     </td>
   </tr>
   <tr>
@@ -467,12 +467,8 @@
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (100)<br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (100)<br />
     </td>
   </tr>
 </table>
