@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -405,27 +405,23 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
       Eula (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
         ,
         height="18"
       />
-      Lisa (15)<br />
+      Lisa (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (15)<br />
     </td>
   </tr>
   <tr>
@@ -467,12 +463,8 @@
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (100)<br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (100)<br />
     </td>
   </tr>
 </table>
@@ -480,17 +472,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1288 (rate -72)</td>
+    <td>1788 (rate -62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1384417 (rate -65)</td>
+    <td>1714033 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (47%)<br />Events: 460 (36%)<br />Daily Activity: 180
-      (13%)<br />Mail: 40 (3%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
+      Events: 880 (50%)<br />Spiral Abyss: 600 (33%)<br />Daily Activity: 240
+      (13%)<br />Mail: 60 (3%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
