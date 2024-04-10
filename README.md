@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -406,26 +406,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+      Xingqiu (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Bennett (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+      Yelan (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
       />
-      Eula (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+      Rosaria (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Lisa (15)<br />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
