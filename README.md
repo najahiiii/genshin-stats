@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -405,7 +405,13 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+        ,
+        height="18"
+      />
+      Lisa (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -415,17 +421,7 @@
         ,
         height="18"
       />
-      Yelan (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
-        ,
-        height="18"
-      />
-      Rosaria (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (15)<br />
+      Yelan (15)<br />
     </td>
   </tr>
   <tr>
@@ -467,8 +463,12 @@
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (100)<br />
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (100)<br />
     </td>
   </tr>
 </table>
