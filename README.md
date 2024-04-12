@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -405,12 +405,7 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
-        ,
-        height="18"
-      />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Lisa.png" , height="18" />
       Lisa (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
         ,
@@ -421,7 +416,12 @@
         ,
         height="18"
       />
-      Yelan (15)<br />
+      Yelan (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (15)<br />
     </td>
   </tr>
   <tr>
@@ -463,12 +463,8 @@
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (100)<br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (100)<br />
     </td>
   </tr>
 </table>
@@ -476,17 +472,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1788 (rate -62)</td>
+    <td>1918 (rate -59)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1714033 (rate -57)</td>
+    <td>1908932 (rate -52)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (50%)<br />Spiral Abyss: 600 (33%)<br />Daily Activity: 240
-      (13%)<br />Mail: 60 (3%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
+      Events: 880 (46%)<br />Spiral Abyss: 600 (32%)<br />Daily Activity: 300
+      (15%)<br />Mail: 130 (6%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -2584,6 +2580,82 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Furina</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Furina</h4></th>
+      <th><h4 align="center">Fleuve Cendre Ferryman</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u0912f/9d42a464b5f0c59ae6e5157f288e6053.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Golden Troupe<br />1 x Heart of Depth<br /></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Lisa</b></summary>
   <br />
   <table>
@@ -3646,82 +3718,6 @@
               3 x Viridescent Venerer<br />1 x Tenacity of the Millelith<br />1
               x Blizzard Strayer<br />
             </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Furina</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Furina</h4></th>
-      <th><h4 align="center">Fleuve Cendre Ferryman</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u0912f/9d42a464b5f0c59ae6e5157f288e6053.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Golden Troupe<br />1 x Heart of Depth<br /></td>
           </tr>
         </table>
       </td>
