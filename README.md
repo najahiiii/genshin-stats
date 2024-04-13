@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>976</td>
+    <td>977</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -405,8 +405,7 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Lisa.png" , height="18" />
-      Lisa (15)<br /><img
+      <img
         src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -421,7 +420,12 @@
         ,
         height="18"
       />
-      Rosaria (15)<br />
+      Rosaria (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
