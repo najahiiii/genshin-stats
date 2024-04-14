@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -406,26 +406,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+        ,
+        height="18"
+      />
+      Lisa (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
-        ,
-        height="18"
-      />
-      Rosaria (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (15)<br />
+      Xingqiu (15)<br />
     </td>
   </tr>
   <tr>
@@ -467,8 +467,12 @@
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (100)<br />
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (100)<br />
     </td>
   </tr>
 </table>
