@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -406,26 +406,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Hu Tao (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (15)<br />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
@@ -476,17 +476,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1918 (rate -59)</td>
+    <td>2218 (rate -53)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1908932 (rate -52)</td>
+    <td>1968932 (rate -50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (46%)<br />Spiral Abyss: 600 (32%)<br />Daily Activity: 300
-      (15%)<br />Mail: 130 (6%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
+      Events: 880 (40%)<br />Spiral Abyss: 600 (27%)<br />Mail: 430 (19%)<br />Daily
+      Activity: 300 (13%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
