@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>977</td>
+    <td>979</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -373,7 +373,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2265</td>
+    <td>2277</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -384,11 +384,11 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>91</td>
+    <td>92</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>15</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -404,90 +404,45 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
-        ,
-        height="18"
-      />
-      Rosaria (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (15)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (47)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (1537941)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (72364)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (64)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (100)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2218 (rate -53)</td>
+    <td>3318 (rate -29)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1968932 (rate -50)</td>
+    <td>3037891 (rate -24)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (40%)<br />Spiral Abyss: 600 (27%)<br />Mail: 430 (19%)<br />Daily
-      Activity: 300 (13%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Events: 1280 (39%)<br />Spiral Abyss: 1200 (36%)<br />Mail: 450 (13%)<br />Daily
+      Activity: 360 (10%)<br />Adventure: 8 (1%)<br />Quests: 0 (0%)<br />Other:
+      20 (1%)<br />
     </td>
   </tr>
 </table>
