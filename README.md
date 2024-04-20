@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -411,21 +411,21 @@
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Lisa (12)<br /><img
+      Kaedehara Kazuha (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
       Eula (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Lisa (12)<br />
     </td>
   </tr>
   <tr>
