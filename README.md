@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -416,11 +416,11 @@
         height="18"
       />
       Rosaria (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Lisa (12)<br /><img
+      Kaedehara Kazuha (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
         ,
         height="18"
