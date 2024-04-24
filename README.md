@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -411,21 +411,21 @@
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
         ,
         height="18"
       />
-      Rosaria (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
+      Lisa (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Eula (12)<br />
+      Eula (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (12)<br />
     </td>
   </tr>
   <tr>
