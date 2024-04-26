@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -16,19 +16,19 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>983</td>
+    <td>984</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>979</td>
+    <td>980</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>66</td>
+    <td>67</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>396</td>
+    <td>399</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -215,7 +215,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">8</td>
+          <td align="center">9</td>
         </tr>
       </table>
     </td>
@@ -373,7 +373,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2277</td>
+    <td>2287</td>
   </tr>
   <tr>
     <td>Visitors</td>
