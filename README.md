@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>980</td>
+    <td>981</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -411,21 +411,21 @@
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
-        ,
-        height="18"
-      />
-      Lisa (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (12)<br />
     </td>
   </tr>
   <tr>
