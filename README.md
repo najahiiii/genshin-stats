@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>984</td>
+    <td>994</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>981</td>
+    <td>983</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>399</td>
+    <td>420</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Hydroculi</td>
-    <td>86</td>
+    <td>87</td>
   </tr>
   <tr>
     <td>Common chests opened</td>
@@ -79,6 +79,7 @@
 <h2>Exploration</h2>
 <table>
   <tr>
+    <th>Sea of Bygone Eras</th>
     <th>Chenyu Vale: Upper Vale</th>
     <th>Fontaine</th>
     <th>Sumeru</th>
@@ -93,6 +94,14 @@
     <th>Chenyu Vale</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_TheOldSea.png"
+          width="250"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -196,6 +205,20 @@
         <tr>
           <td>Explored</td>
           <td align="center">
+            <img src="https://progress-bar.dev/20/" width="100" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td align="center">0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td align="center">
             <img src="https://progress-bar.dev/1/" width="100" />
           </td>
         </tr>
@@ -210,12 +233,12 @@
         <tr>
           <td>Explored</td>
           <td align="center">
-            <img src="https://progress-bar.dev/37/" width="100" />
+            <img src="https://progress-bar.dev/41/" width="100" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">9</td>
+          <td align="center">10</td>
         </tr>
       </table>
     </td>
@@ -373,7 +396,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2287</td>
+    <td>2297</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -411,21 +434,21 @@
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Lisa.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
         ,
         height="18"
       />
-      Lisa (12)<br />
+      Eula (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
+        ,
+        height="18"
+      />
+      Rosaria (12)<br />
     </td>
   </tr>
   <tr>
@@ -484,17 +507,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4523 (rate -4)</td>
+    <td>4668 (rate -1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3806999 (rate -5)</td>
+    <td>4014152 (rate 0)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1320 (30%)<br />Spiral Abyss: 1200 (27%)<br />Mail: 1110 (25%)<br />Daily
-      Activity: 540 (11%)<br />Quests: 170 (3%)<br />Adventure: 163 (3%)<br />Other:
+      Events: 1320 (29%)<br />Spiral Abyss: 1200 (26%)<br />Mail: 1140 (24%)<br />Daily
+      Activity: 540 (11%)<br />Adventure: 238 (5%)<br />Quests: 210 (4%)<br />Other:
       20 (1%)<br />
     </td>
   </tr>
@@ -507,7 +530,7 @@
   <table>
     <tr>
       <th><h4 align="center">Zhongli</h4></th>
-      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
+      <th><h4 align="center">Staff of Homa</h4></th>
     </tr>
     <tr>
       <td>
@@ -522,7 +545,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/c50a47d3314bcff507e68ee8cc395126.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f612ce66e5367f35f13bd342a79a89ad.png"
             ,
             height="256"
           />
@@ -4606,6 +4629,82 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Arlecchino</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Arlecchino</h4></th>
+      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/c50a47d3314bcff507e68ee8cc395126.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Gladiator's Finale<br />1 x Pale Flame<br /></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Razor</b></summary>
   <br />
   <table>
@@ -5437,82 +5536,6 @@
           <tr>
             <td>Level</td>
             <td>20</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>2</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Arlecchino</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Arlecchino</h4></th>
-      <th><h4 align="center">Staff of Homa</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f612ce66e5367f35f13bd342a79a89ad.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Gladiator's Finale<br />1 x Pale Flame<br /></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
