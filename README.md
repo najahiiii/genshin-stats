@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -439,16 +439,16 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
         ,
         height="18"
       />
-      Rosaria (12)<br />
+      Rosaria (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (12)<br />
     </td>
   </tr>
   <tr>
@@ -507,18 +507,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4668 (rate -1)</td>
+    <td>60 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4014152 (rate 0)</td>
+    <td>82759 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1320 (29%)<br />Spiral Abyss: 1200 (26%)<br />Mail: 1140 (24%)<br />Daily
-      Activity: 540 (11%)<br />Adventure: 238 (5%)<br />Quests: 210 (4%)<br />Other:
-      20 (1%)<br />
+      Daily Activity: 60 (100%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
+      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -530,7 +529,7 @@
   <table>
     <tr>
       <th><h4 align="center">Zhongli</h4></th>
-      <th><h4 align="center">Staff of Homa</h4></th>
+      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
     </tr>
     <tr>
       <td>
@@ -545,7 +544,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f612ce66e5367f35f13bd342a79a89ad.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/c50a47d3314bcff507e68ee8cc395126.png"
             ,
             height="256"
           />
@@ -3592,7 +3591,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -3775,6 +3774,82 @@
   </table>
 </details>
 <details open>
+  <summary align="center"><b>Arlecchino</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Arlecchino</h4></th>
+      <th><h4 align="center">Staff of Homa</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/f612ce66e5367f35f13bd342a79a89ad.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>4 x Gladiator's Finale<br />1 x Pale Flame<br /></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
   <summary align="center"><b>Traveler</b></summary>
   <br />
   <table>
@@ -3823,7 +3898,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -4622,82 +4697,6 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details open>
-  <summary align="center"><b>Arlecchino</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h4 align="center">Arlecchino</h4></th>
-      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/c50a47d3314bcff507e68ee8cc395126.png"
-            ,
-            height="256"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>4 x Gladiator's Finale<br />1 x Pale Flame<br /></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>2</td>
           </tr>
         </table>
       </td>
