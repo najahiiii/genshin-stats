@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>994</td>
+    <td>1003</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>983</td>
+    <td>985</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>420</td>
+    <td>424</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Hydroculi</td>
-    <td>87</td>
+    <td>157</td>
   </tr>
   <tr>
     <td>Common chests opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
-    <td>189</td>
+    <td>190</td>
   </tr>
   <tr>
     <td>Remarkable chests opened</td>
@@ -205,7 +205,7 @@
         <tr>
           <td>Explored</td>
           <td align="center">
-            <img src="https://progress-bar.dev/20/" width="100" />
+            <img src="https://progress-bar.dev/62/" width="100" />
           </td>
         </tr>
         <tr>
@@ -233,7 +233,7 @@
         <tr>
           <td>Explored</td>
           <td align="center">
-            <img src="https://progress-bar.dev/41/" width="100" />
+            <img src="https://progress-bar.dev/50/" width="100" />
           </td>
         </tr>
         <tr>
@@ -407,99 +407,103 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>92</td>
+    <td>93</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>18</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (15)<br /><img
+      Zhongli (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png"
-        ,
-        height="18"
-      />
-      Rosaria (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (12)<br />
+      Kaedehara Kazuha (9)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (45)<br />
+      Arlecchino (51)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
-      Eula (1272799)<br />
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
+        ,
+        height="18"
+      />
+      Arlecchino (182394)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (143790)<br />
+      Kamisato Ayaka (21475)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Zhongli (44)<br />
+      Bennett (13)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Shenhe (116)<br />
+      Kaedehara Kazuha (36)<br />
     </td>
   </tr>
 </table>
@@ -507,17 +511,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>60 (rate -98)</td>
+    <td>950 (rate -80)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>82759 (rate -97)</td>
+    <td>1098206 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 60 (100%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
-      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Spiral Abyss: 450 (48%)<br />Adventure: 240 (26%)<br />Quests: 140
+      (14%)<br />Daily Activity: 100 (10%)<br />Mail: 20 (2%)<br />Events: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -3898,7 +3903,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Artifacts</td>
