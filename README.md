@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>1003</td>
+    <td>1009</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>985</td>
+    <td>987</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -429,16 +429,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
@@ -448,7 +438,17 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br />
+      Kaedehara Kazuha (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
+        ,
+        height="18"
+      />
+      Arlecchino (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (9)<br />
     </td>
   </tr>
   <tr>
@@ -511,17 +511,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>950 (rate -80)</td>
+    <td>1040 (rate -78)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1098206 (rate -73)</td>
+    <td>1241681 (rate -69)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (48%)<br />Adventure: 240 (26%)<br />Quests: 140
-      (14%)<br />Daily Activity: 100 (10%)<br />Mail: 20 (2%)<br />Events: 0
+      Spiral Abyss: 450 (44%)<br />Adventure: 250 (25%)<br />Quests: 170
+      (16%)<br />Daily Activity: 150 (14%)<br />Mail: 20 (1%)<br />Events: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -3903,7 +3903,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Artifacts</td>
