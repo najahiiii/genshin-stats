@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>1009</td>
+    <td>1015</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>987</td>
+    <td>988</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -56,11 +56,11 @@
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1608</td>
+    <td>1610</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
-    <td>510</td>
+    <td>511</td>
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Domains unlocked</td>
-    <td>55</td>
+    <td>56</td>
   </tr>
 </table>
 
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2297</td>
+    <td>2300</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -429,16 +429,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
         ,
         height="18"
@@ -448,7 +438,17 @@
         ,
         height="18"
       />
-      Bennett (9)<br />
+      Bennett (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (9)<br />
     </td>
   </tr>
   <tr>
@@ -511,17 +511,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1690 (rate -64)</td>
+    <td>1870 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2068174 (rate -49)</td>
+    <td>2497797 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (27%)<br />Events: 420 (25%)<br />Adventure: 340
-      (21%)<br />Daily Activity: 240 (14%)<br />Quests: 200 (11%)<br />Mail: 40
+      Spiral Abyss: 450 (25%)<br />Events: 420 (23%)<br />Adventure: 370
+      (20%)<br />Quests: 350 (18%)<br />Daily Activity: 240 (12%)<br />Mail: 40
       (2%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
