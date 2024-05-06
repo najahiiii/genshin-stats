@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>988</td>
+    <td>989</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
         ,
         height="18"
       />
-      Arlecchino (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (9)<br />
+      Arlecchino (9)<br />
     </td>
   </tr>
   <tr>
@@ -511,17 +511,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1870 (rate -60)</td>
+    <td>1910 (rate -59)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2497797 (rate -39)</td>
+    <td>2566868 (rate -37)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (25%)<br />Events: 420 (23%)<br />Adventure: 370
-      (20%)<br />Quests: 350 (18%)<br />Daily Activity: 240 (12%)<br />Mail: 40
+      Spiral Abyss: 450 (24%)<br />Events: 420 (22%)<br />Adventure: 370
+      (20%)<br />Quests: 350 (18%)<br />Daily Activity: 280 (14%)<br />Mail: 40
       (2%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -3903,7 +3903,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Artifacts</td>
