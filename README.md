@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -429,11 +429,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
@@ -448,7 +443,12 @@
         ,
         height="18"
       />
-      Arlecchino (9)<br />
+      Arlecchino (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (9)<br />
     </td>
   </tr>
   <tr>
@@ -5515,7 +5515,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>60</td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -5527,7 +5527,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>5 x Pale Flame<br /></td>
           </tr>
         </table>
       </td>
@@ -5539,11 +5539,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
