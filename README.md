@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>989</td>
+    <td>990</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2300</td>
+    <td>2310</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -411,44 +411,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>9</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>9</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>27</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Shenhe (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+      Sangonomiya Kokomi (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br /><img
+      Yelan (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
         ,
         height="18"
       />
-      Arlecchino (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (9)<br />
+      Arlecchino (15)<br />
     </td>
   </tr>
   <tr>
@@ -459,7 +459,7 @@
         ,
         height="18"
       />
-      Arlecchino (51)<br />
+      Arlecchino (65)<br />
     </td>
   </tr>
   <tr>
@@ -488,11 +488,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Bennett (13)<br />
+      Kamisato Ayaka (44)<br />
     </td>
   </tr>
   <tr>
@@ -503,7 +503,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (36)<br />
+      Kaedehara Kazuha (135)<br />
     </td>
   </tr>
 </table>
@@ -511,18 +511,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1910 (rate -59)</td>
+    <td>2120 (rate -55)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2566868 (rate -37)</td>
+    <td>3011919 (rate -27)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (24%)<br />Events: 420 (22%)<br />Adventure: 370
-      (20%)<br />Quests: 350 (18%)<br />Daily Activity: 280 (14%)<br />Mail: 40
-      (2%)<br />Other: 0 (0%)<br />
+      Spiral Abyss: 600 (29%)<br />Events: 420 (20%)<br />Adventure: 370
+      (18%)<br />Daily Activity: 340 (16%)<br />Quests: 350 (16%)<br />Mail: 40
+      (1%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
