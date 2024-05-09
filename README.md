@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+      Kamisato Ayaka (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Yelan (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (15)<br /><img
+      Shenhe (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
         ,
         height="18"
       />
-      Arlecchino (15)<br />
+      Arlecchino (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (15)<br />
     </td>
   </tr>
   <tr>
@@ -511,17 +511,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2120 (rate -55)</td>
+    <td>2180 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3011919 (rate -27)</td>
+    <td>3105977 (rate -24)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (29%)<br />Events: 420 (20%)<br />Adventure: 370
-      (18%)<br />Daily Activity: 340 (16%)<br />Quests: 350 (16%)<br />Mail: 40
+      Spiral Abyss: 600 (28%)<br />Events: 420 (20%)<br />Daily Activity: 400
+      (19%)<br />Quests: 350 (16%)<br />Adventure: 370 (16%)<br />Mail: 40
       (1%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -3823,7 +3823,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
