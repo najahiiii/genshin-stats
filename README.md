@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -429,16 +429,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (15)<br /><img
+      Kamisato Ayaka (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -448,7 +443,12 @@
         ,
         height="18"
       />
-      Zhongli (15)<br />
+      Zhongli (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (15)<br />
     </td>
   </tr>
   <tr>
@@ -511,17 +511,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2180 (rate -54)</td>
+    <td>2240 (rate -53)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3105977 (rate -24)</td>
+    <td>3195089 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (28%)<br />Events: 420 (20%)<br />Daily Activity: 400
-      (19%)<br />Quests: 350 (16%)<br />Adventure: 370 (16%)<br />Mail: 40
+      Spiral Abyss: 600 (27%)<br />Daily Activity: 460 (21%)<br />Events: 420
+      (19%)<br />Adventure: 370 (17%)<br />Quests: 350 (15%)<br />Mail: 40
       (1%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
