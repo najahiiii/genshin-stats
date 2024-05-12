@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>991</td>
+    <td>992</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Shenhe (15)<br />
+      Kaedehara Kazuha (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (15)<br />
     </td>
   </tr>
   <tr>
@@ -511,18 +511,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2240 (rate -53)</td>
+    <td>3480 (rate -27)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3195089 (rate -22)</td>
+    <td>4834645 (rate 16)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (27%)<br />Daily Activity: 460 (21%)<br />Events: 420
-      (19%)<br />Adventure: 370 (17%)<br />Quests: 350 (15%)<br />Mail: 40
-      (1%)<br />Other: 0 (0%)<br />
+      Events: 1350 (39%)<br />Spiral Abyss: 600 (18%)<br />Daily Activity: 580
+      (17%)<br />Quests: 450 (13%)<br />Adventure: 370 (10%)<br />Mail: 60
+      (1%)<br />Other: 70 (2%)<br />
     </td>
   </tr>
 </table>
@@ -886,7 +886,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -5295,7 +5295,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -5519,7 +5519,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Constellation</td>
