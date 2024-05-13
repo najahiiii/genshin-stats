@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>1015</td>
+    <td>1016</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>992</td>
+    <td>994</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>424</td>
+    <td>425</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -81,6 +81,7 @@
   <tr>
     <th>Sea of Bygone Eras</th>
     <th>Chenyu Vale: Upper Vale</th>
+    <th>Chenyu Vale: Southern Mountain</th>
     <th>Fontaine</th>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
@@ -90,7 +91,6 @@
     <th>Dragonspine</th>
     <th>Liyue</th>
     <th>Mondstadt</th>
-    <th>Chenyu Vale: Southern Mountain</th>
     <th>Chenyu Vale</th>
   </tr>
   <tr>
@@ -98,6 +98,14 @@
       <p align="center">
         <img
           src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_TheOldSea.png"
+          width="250"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChenYuVale.png"
           width="250"
         />
       </p>
@@ -190,14 +198,6 @@
         />
       </p>
     </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterInnerIcon_ChenYuVale.png"
-          width="250"
-        />
-      </p>
-    </td>
   </tr>
   <tr>
     <td>
@@ -206,6 +206,20 @@
           <td>Explored</td>
           <td align="center">
             <img src="https://progress-bar.dev/62/" width="100" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td align="center">0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td align="center">
+            <img src="https://progress-bar.dev/1/" width="100" />
           </td>
         </tr>
         <tr>
@@ -363,20 +377,6 @@
           </td>
         </tr>
         <tr>
-          <td>TypeUnknow</td>
-          <td align="center">0</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td align="center">
-            <img src="https://progress-bar.dev/0/" width="100" />
-          </td>
-        </tr>
-        <tr>
           <td>Offering</td>
           <td align="center">0</td>
         </tr>
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2310</td>
+    <td>2313</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Zhongli (15)<br /><img
+      Sangonomiya Kokomi (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+      Yelan (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (15)<br />
+      Shenhe (15)<br />
     </td>
   </tr>
   <tr>
@@ -511,17 +511,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3480 (rate -27)</td>
+    <td>3490 (rate -26)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4834645 (rate 16)</td>
+    <td>4837285 (rate 17)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1350 (39%)<br />Spiral Abyss: 600 (18%)<br />Daily Activity: 580
-      (17%)<br />Quests: 450 (13%)<br />Adventure: 370 (10%)<br />Mail: 60
+      (17%)<br />Quests: 450 (13%)<br />Adventure: 380 (10%)<br />Mail: 60
       (1%)<br />Other: 70 (2%)<br />
     </td>
   </tr>
