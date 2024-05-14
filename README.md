@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yelan (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (15)<br />
+      Yelan (15)<br />
     </td>
   </tr>
   <tr>
@@ -511,18 +511,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3490 (rate -26)</td>
+    <td>3550 (rate -25)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4837285 (rate 17)</td>
+    <td>5111424 (rate 23)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1350 (39%)<br />Spiral Abyss: 600 (18%)<br />Daily Activity: 580
+      Events: 1350 (39%)<br />Daily Activity: 640 (19%)<br />Spiral Abyss: 600
       (17%)<br />Quests: 450 (13%)<br />Adventure: 380 (10%)<br />Mail: 60
-      (1%)<br />Other: 70 (2%)<br />
+      (1%)<br />Other: 70 (1%)<br />
     </td>
   </tr>
 </table>
@@ -3823,7 +3823,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5315,7 +5315,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
