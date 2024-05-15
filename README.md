@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>994</td>
+    <td>995</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2313</td>
+    <td>2323</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (15)<br /><img
+      Shenhe (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yelan (15)<br />
+      Yelan (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (15)<br />
     </td>
   </tr>
   <tr>
@@ -511,16 +511,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3550 (rate -25)</td>
+    <td>3610 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5111424 (rate 23)</td>
+    <td>5202741 (rate 25)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1350 (39%)<br />Daily Activity: 640 (19%)<br />Spiral Abyss: 600
+      Events: 1350 (38%)<br />Daily Activity: 700 (20%)<br />Spiral Abyss: 600
       (17%)<br />Quests: 450 (13%)<br />Adventure: 380 (10%)<br />Mail: 60
       (1%)<br />Other: 70 (1%)<br />
     </td>
