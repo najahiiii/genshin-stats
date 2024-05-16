@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>995</td>
+    <td>996</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -429,21 +429,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Shenhe (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br /><img
+      Kamisato Ayaka (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -511,16 +511,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3610 (rate -24)</td>
+    <td>3670 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5202741 (rate 25)</td>
+    <td>5310429 (rate 28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1350 (38%)<br />Daily Activity: 700 (20%)<br />Spiral Abyss: 600
+      Events: 1350 (37%)<br />Daily Activity: 760 (21%)<br />Spiral Abyss: 600
       (17%)<br />Quests: 450 (13%)<br />Adventure: 380 (10%)<br />Mail: 60
       (1%)<br />Other: 70 (1%)<br />
     </td>
