@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>996</td>
+    <td>997</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Hydroculi</td>
-    <td>157</td>
+    <td>158</td>
   </tr>
   <tr>
     <td>Common chests opened</td>
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2323</td>
+    <td>2325</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -429,16 +429,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
@@ -448,7 +438,17 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br />
+      Kaedehara Kazuha (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (15)<br />
     </td>
   </tr>
   <tr>
