@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>997</td>
+    <td>998</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
       Shenhe (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br />
+      Arlecchino (15)<br />
     </td>
   </tr>
   <tr>
@@ -511,17 +511,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3670 (rate -23)</td>
+    <td>3730 (rate -21)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5310429 (rate 28)</td>
+    <td>5398959 (rate 30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1350 (37%)<br />Daily Activity: 760 (21%)<br />Spiral Abyss: 600
-      (17%)<br />Quests: 450 (13%)<br />Adventure: 380 (10%)<br />Mail: 60
+      Events: 1350 (37%)<br />Daily Activity: 820 (22%)<br />Spiral Abyss: 600
+      (17%)<br />Quests: 450 (12%)<br />Adventure: 380 (10%)<br />Mail: 60
       (1%)<br />Other: 70 (1%)<br />
     </td>
   </tr>
