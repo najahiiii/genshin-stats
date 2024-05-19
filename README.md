@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -429,26 +429,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (15)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (15)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shenhe.png"
-        ,
-        height="18"
-      />
-      Shenhe (15)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png"
-        ,
-        height="18"
-      />
-      Arlecchino (15)<br />
+      Sangonomiya Kokomi (15)<br />
     </td>
   </tr>
   <tr>
