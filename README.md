@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>999</td>
+    <td>1000</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1610</td>
+    <td>1611</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
@@ -396,7 +396,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>2335</td>
+    <td>2345</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -511,18 +511,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3960 (rate -16)</td>
+    <td>4660 (rate -2)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5749340 (rate 39)</td>
+    <td>6339790 (rate 53)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1495 (38%)<br />Daily Activity: 880 (23%)<br />Spiral Abyss: 600
-      (16%)<br />Quests: 450 (11%)<br />Adventure: 385 (9%)<br />Mail: 80
-      (2%)<br />Other: 70 (1%)<br />
+      Events: 1810 (39%)<br />Daily Activity: 940 (21%)<br />Spiral Abyss: 600
+      (13%)<br />Quests: 450 (10%)<br />Adventure: 390 (8%)<br />Mail: 380
+      (8%)<br />Other: 90 (1%)<br />
     </td>
   </tr>
 </table>
