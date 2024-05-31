@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Domains unlocked</td>
-    <td>56</td>
+    <td>58</td>
   </tr>
 </table>
 
