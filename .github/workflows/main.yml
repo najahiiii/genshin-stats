@@ -22,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install git+https://github.com/thesadru/genshin.py
+          pip install git+https://github.com/thesadru/genshin.py@1.7.1
           pip install -r requirements.txt
           npm install
       - name: Run main.py
