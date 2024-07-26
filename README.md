@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -417,8 +417,8 @@
     <td>Categories</td>
     <td>
       Mail: 2020 (89%)<br />Events: 140 (6%)<br />Daily Activity: 120 (5%)<br />Spiral
-      Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
+      0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
