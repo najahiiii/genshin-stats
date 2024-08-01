@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -407,18 +407,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2280 (rate 338)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>550115 (rate 443)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2020 (89%)<br />Events: 140 (6%)<br />Daily Activity: 120 (5%)<br />Spiral
-      Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure:
-      0 (0%)<br />Other: 0 (0%)<br />
+      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+      Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
