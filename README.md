@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>1007</td>
+    <td>1008</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>425</td>
+    <td>426</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
-    <td>190</td>
+    <td>191</td>
   </tr>
   <tr>
     <td>Remarkable chests opened</td>
@@ -430,18 +430,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>1705 (rate 401)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>1629036 (rate 1497)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-      Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0
-      (0%)<br />Other: 0 (0%)<br />
+      Mail: 1390 (82%)<br />Events: 100 (6%)<br />Quests: 100 (6%)<br />Daily
+      Activity: 60 (3%)<br />Adventure: 15 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+      Theater: 0 (0%)<br />Other: 40 (2%)<br />
     </td>
   </tr>
 </table>
