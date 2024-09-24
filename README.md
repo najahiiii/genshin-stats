@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>1013</td>
+    <td>1014</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>67</td>
+    <td>68</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
@@ -426,21 +426,117 @@
     <td>38</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>99</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>11-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (39)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" , height="18" />
+      Eula (540666)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (23384)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (18)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      Yae Miko (80)<br />
+    </td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2165 (rate 536)</td>
+    <td>2845 (rate 736)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1942262 (rate 1804)</td>
+    <td>2423212 (rate 2275)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1510 (70%)<br />Events: 300 (14%)<br />Daily Activity: 180 (9%)<br />Quests:
-      100 (4%)<br />Adventure: 15 (1%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+      Mail: 1530 (54%)<br />Spiral Abyss: 600 (22%)<br />Events: 300 (10%)<br />Daily
+      Activity: 240 (8%)<br />Quests: 100 (3%)<br />Adventure: 15 (1%)<br />Imaginarium
       Theater: 0 (0%)<br />Other: 60 (2%)<br />
     </td>
   </tr>
@@ -1205,7 +1301,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>4 x Viridescent Venerer<br />1 x Blizzard Strayer<br /></td>
           </tr>
         </table>
       </td>
@@ -1622,7 +1718,7 @@
   <table>
     <tr>
       <th><h4 align="center">Hu Tao</h4></th>
-      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
+      <th><h4 align="center">Staff of Homa</h4></th>
     </tr>
     <tr>
       <td>
@@ -1637,7 +1733,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/dacc3592adadfeb97b0db1f8af25b0b8.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/6acc30dac4626707bd3337e2a59dff99.png"
             ,
             height="256"
           />
@@ -1681,11 +1777,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -3703,7 +3799,7 @@
   <table>
     <tr>
       <th><h4 align="center">Arlecchino</h4></th>
-      <th><h4 align="center">Staff of Homa</h4></th>
+      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
     </tr>
     <tr>
       <td>
@@ -3718,7 +3814,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/6acc30dac4626707bd3337e2a59dff99.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/dacc3592adadfeb97b0db1f8af25b0b8.png"
             ,
             height="256"
           />
@@ -3762,11 +3858,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -5619,6 +5715,82 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details open>
+  <summary align="center"><b>Chevreuse</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h4 align="center">Chevreuse</h4></th>
+      <th><h4 align="center">Beginner's Protector</h4></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Chevreuse.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ube8qg/79227f4d4a99f9775f8925f8289ec676.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
