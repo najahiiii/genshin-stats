@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -452,26 +452,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Zhongli (9)<br /><img
+      Furina (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Nahida (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (9)<br />
+      Zhongli (9)<br />
     </td>
   </tr>
   <tr>
@@ -530,7 +530,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2423212 (rate 2275)</td>
+    <td>2429212 (rate 2281)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -1718,7 +1718,7 @@
   <table>
     <tr>
       <th><h4 align="center">Hu Tao</h4></th>
-      <th><h4 align="center">Staff of Homa</h4></th>
+      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
     </tr>
     <tr>
       <td>
@@ -1733,7 +1733,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/036b51cd82fb15cf0ba48d07e38a2ca3.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/cc725f154e065d10f7a9e280cafb92c1.png"
             ,
             height="256"
           />
@@ -1777,11 +1777,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3799,7 +3799,7 @@
   <table>
     <tr>
       <th><h4 align="center">Arlecchino</h4></th>
-      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
+      <th><h4 align="center">Staff of Homa</h4></th>
     </tr>
     <tr>
       <td>
@@ -3814,7 +3814,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/cc725f154e065d10f7a9e280cafb92c1.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/036b51cd82fb15cf0ba48d07e38a2ca3.png"
             ,
             height="256"
           />
@@ -3858,11 +3858,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
