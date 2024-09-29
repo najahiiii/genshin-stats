@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -452,6 +452,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -461,17 +471,7 @@
         ,
         height="18"
       />
-      Yae Miko (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br />
+      Yae Miko (9)<br />
     </td>
   </tr>
   <tr>
@@ -526,18 +526,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2845 (rate 736)</td>
+    <td>3762 (rate 1006)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2429212 (rate 2281)</td>
+    <td>2515647 (rate 2366)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1530 (54%)<br />Spiral Abyss: 600 (22%)<br />Events: 300 (10%)<br />Daily
-      Activity: 240 (8%)<br />Quests: 100 (3%)<br />Adventure: 15 (1%)<br />Imaginarium
-      Theater: 0 (0%)<br />Other: 60 (2%)<br />
+      Mail: 1930 (52%)<br />Events: 720 (20%)<br />Spiral Abyss: 600 (16%)<br />Daily
+      Activity: 300 (7%)<br />Quests: 120 (3%)<br />Adventure: 32 (1%)<br />Imaginarium
+      Theater: 0 (0%)<br />Other: 60 (1%)<br />
     </td>
   </tr>
 </table>
@@ -610,11 +610,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -825,7 +825,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -1718,7 +1718,7 @@
   <table>
     <tr>
       <th><h4 align="center">Hu Tao</h4></th>
-      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
+      <th><h4 align="center">Staff of Homa</h4></th>
     </tr>
     <tr>
       <td>
@@ -1733,7 +1733,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/cc725f154e065d10f7a9e280cafb92c1.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/036b51cd82fb15cf0ba48d07e38a2ca3.png"
             ,
             height="256"
           />
@@ -1777,11 +1777,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -3799,7 +3799,7 @@
   <table>
     <tr>
       <th><h4 align="center">Arlecchino</h4></th>
-      <th><h4 align="center">Staff of Homa</h4></th>
+      <th><h4 align="center">Primordial Jade Winged-Spear</h4></th>
     </tr>
     <tr>
       <td>
@@ -3814,7 +3814,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/036b51cd82fb15cf0ba48d07e38a2ca3.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue16rg/cc725f154e065d10f7a9e280cafb92c1.png"
             ,
             height="256"
           />
@@ -5770,7 +5770,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
