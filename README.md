@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>10000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -452,6 +452,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -461,17 +471,7 @@
         ,
         height="18"
       />
-      Yae Miko (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br />
+      Yae Miko (9)<br />
     </td>
   </tr>
   <tr>
@@ -526,18 +526,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3762 (rate 1006)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2515647 (rate 2366)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1930 (52%)<br />Events: 720 (20%)<br />Spiral Abyss: 600 (16%)<br />Daily
-      Activity: 300 (7%)<br />Quests: 120 (3%)<br />Adventure: 32 (1%)<br />Imaginarium
-      Theater: 0 (0%)<br />Other: 60 (1%)<br />
+      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
+      Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
