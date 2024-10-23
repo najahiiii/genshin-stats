@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -451,27 +451,23 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      Yae Miko (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (9)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Nahida (9)<br />
+      Furina (9)<br />
     </td>
   </tr>
   <tr>
