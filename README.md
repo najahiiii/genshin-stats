@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,15 +20,15 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>1021</td>
+    <td>1022</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>68</td>
+    <td>69</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>429</td>
+    <td>430</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -430,18 +430,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate 0)</td>
+    <td>565 (rate 56500)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate 0)</td>
+    <td>54500 (rate 5450000)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-      Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0
-      (0%)<br />Other: 0 (0%)<br />
+      Mail: 560 (99%)<br />Adventure: 5 (1%)<br />Events: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0
+      (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
