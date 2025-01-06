@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
